@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# GERENCIADOR DE REDES SOCIAIS
 
 `CURSO`Analises de Desenvolvimento de Sistemas
 
