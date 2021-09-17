@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO`Analises de Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA`Projeto:Desenvolvimento de aplicação Web Front-End
 
-`SEMESTRE`
+`SEMESTRE`Eixo 1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Neste projeto o problema que buscamos resolver é a dificuldade que as micros e pequenas empresas encontram diante da necessidade de adotarem soluções relacionadas ao comércio eletrônico, em divulgar sua imagem e produtos, assim como também outras formas de captar clientes no mundo digital.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Erica Couto Rocha Cicero
+* Gabriel Eduardo Palhares
+* Gustavo dos Anjos Mendes Costa
+* Kenia Maria da Cunha
+* Rafael de Abreu Oliveira
+* Rafael Felipe M de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sandra Maria Silveira
 
 ## Instruções de utilização
 
