@@ -1,8 +1,8 @@
 # GERENCIADOR DE REDES SOCIAIS
 
-`CURSO`Analises de Desenvolvimento de Sistemas
+`CURSO`Analise de Desenvolvimento de Sistemas
 
-`DISCIPLINA`Projeto:Desenvolvimento de aplicação Web Front-End
+`DISCIPLINA`Projeto: Desenvolvimento de aplicação Web Front-End
 
 `SEMESTRE`Eixo 1
 
