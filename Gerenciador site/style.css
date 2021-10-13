@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+}
+
+header a{
+  text-decoration: none;
+}
+ul{
+
+list-style-type: none;
+display: flex;
+text-align: center;
+justify-content: space-around;
+background: gray;
+color: rgb(0, 0, 0);
+padding: 15px;
+font-size: 20px;
+overflow: auto;
+margin: ;
+
+}
+
+.icon{
+  width: 35px;
+  padding: 5px;
+  display: block;
+  margin: auto;
+}
