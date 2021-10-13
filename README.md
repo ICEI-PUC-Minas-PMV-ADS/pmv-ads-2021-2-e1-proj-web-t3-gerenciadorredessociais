@@ -15,7 +15,6 @@ Neste projeto o problema que buscamos resolver é a dificuldade que as micros e 
 * Gustavo dos Anjos Mendes Costa
 * Kenia Maria da Cunha
 * Rafael de Abreu Oliveira
-* Rafael Felipe M de Oliveira
 
 ## Orientador
 
