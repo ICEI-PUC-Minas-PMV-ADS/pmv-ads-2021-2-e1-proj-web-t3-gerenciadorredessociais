@@ -43,22 +43,22 @@ Foi realizada uma pesquisa pela Fundação Getúlio Vargas (2021) onde obtiveram
 total de 2.572 respostas de empresas nacionais no período de 03/03/2021 a
 31/05/2021. A amostra possui representatividade nacional e setorial, com um total de
 respondentes de 1.176 do setor de serviços, 804 do setor de comércio e 537 do setor
-industrial, e verificou-se que:
+industrial, e verificou-se que:<br>
 • A média de maturidade digital das MPEs brasileiras é de 40,77 pontos, em uma
-escala que varia de 0 a 100 pontos;
+escala que varia de 0 a 100 pontos;<br>
 • O setor de serviços apresentou os melhores resultados, com uma pontuação
 média de 43,73, enquanto o setor do comércio apresentou a menor pontuação
-média, 36,75 pontos. O setor industrial registrou média de 40,49 pontos;
+média, 36,75 pontos. O setor industrial registrou média de 40,49 pontos;<br>
 • Por outro lado, a pontuação mais baixa das empresas, 35,01, foi estabelecer
 novas bases de competição, o que traduz uma dificuldade em se adaptar ao
-universo on-line e oferecer modelos de negócios mais inovadores e digitais;
+universo on-line e oferecer modelos de negócios mais inovadores e digitais;<br>
 • é perceptível que as empresas estão mais abertas e atentas à necessidade de
 se utilizar dados no processo de tomada de decisão, 23% das empresas
 afirmaram possuir um plano formal para uso de dados com rotinas de
 elaboração de relatórios gerenciais e um sistema de suporte à decisão,
 enquanto 37% afirmaram que apesar de não possuírem uma rotina formal
 definida, os dados estão presentes nas reuniões decisórias.
-4
+
 Para quase 40% dos entrevistados a principal dificuldade com a transformação digital
 é a falta de recursos para investir e a falta de estratégia e o desconhecimento de como
 construir um caminho apropriado para sua transformação digital são citadas por outros
