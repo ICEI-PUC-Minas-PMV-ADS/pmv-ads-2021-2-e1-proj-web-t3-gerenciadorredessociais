@@ -43,8 +43,8 @@ Foi realizada uma pesquisa pela Fundação Getúlio Vargas (2021) onde obtiveram
 total de 2.572 respostas de empresas nacionais no período de 03/03/2021 a
 31/05/2021. A amostra possui representatividade nacional e setorial, com um total de
 respondentes de 1.176 do setor de serviços, 804 do setor de comércio e 537 do setor
-industrial, e verificou-se que:
-<br>
+industrial, e verificou-se que:<br>
+
 • A média de maturidade digital das MPEs brasileiras é de 40,77 pontos, em uma
 escala que varia de 0 a 100 pontos;<br>
 • O setor de serviços apresentou os melhores resultados, com uma pontuação
