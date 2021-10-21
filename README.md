@@ -6,7 +6,7 @@
 
 `SEMESTRE`Eixo 1
 
-Neste projeto o problema que buscamos resolver é a dificuldade que as micros e pequenas empresas encontram diante da necessidade de adotarem soluções relacionadas ao comércio eletrônico, em divulgar sua imagem e produtos, assim como também outras formas de captar clientes no mundo digital.
+Neste projeto, a solução que buscamos se baseia em diminuir a dificuldade que as micros e pequenas empresas encontram diante da necessidade de adotarem soluções relacionadas ao comércio eletrônico, em divulgar sua imagem e produtos, assim como lhes entregar a possibilidade de conhecerem outras formas de captar clientes no mundo digital.
 
 ## Integrantes
 
@@ -22,7 +22,7 @@ Neste projeto o problema que buscamos resolver é a dificuldade que as micros e 
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+PENDENTE - Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
