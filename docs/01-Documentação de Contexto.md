@@ -3,6 +3,7 @@
 O atual cenário do país afetou diretamente a economia e o setor empresarial. Em
 decorrência das medidas de combate à pandemia da Covid-19, houve aceleração do
 processo de digitalização de negócios em diferentes segmentos no Brasil e no mundo.
+
 A tendência é que as empresas que não adotarem o digital como uma alternativa
 enfrentarão ainda mais dificuldades pelo caminho. Nesse contexto, as micro e
 pequenas empresas brasileiras ainda estão em um momento inicial da transformação
@@ -10,16 +11,19 @@ digital, compreendida, segundo a Fundação Getúlio Vargas (FGV), como o proces
 de transformar o modelo de negócio através do uso de ferramentas digitais,
 acompanhando a mudança no perfil do consumidor e nos formatos de consumo de
 serviços e produtos.
+
 Em pesquisa realizada pela Fundação Getúlio Vargas (2021) entre os meses de
 março e maio/2021, identificou-se que 66% das MPEs (micro ou pequena empresa)
 estão nos níveis 1 e 2 de maturidade digital, sendo 18% empresas analógicas (nível 1) e
 48% emergentes (nível 2) e que a média de maturidade digital das MPEs brasileiras é de
 40,77 pontos, em uma escala que varia de 0 a 100 pontos.
+
 Mesmo sendo o segundo objetivo da pesquisa em que mais pontuaram, conectar e
 engajar clientes, as empresas não avançam nas práticas que demandam uso de
 aplicativos ou API para personalização da experiência, atuação em multicanais e
 implementação de um mínimo grau de automação para atender clientes e responder
 a dúvidas interativamente.
+
 Adaptar e inovar são palavras chaves que fazem parte do dia-a-dia de uma micro e
 pequena empresa. Sobreviver neste novo mundo tecnológico é uma luta diária, e
 diante disso é preciso buscar meios para facilitar essa permanência e adesão a esse
@@ -67,6 +71,7 @@ construir um caminho apropriado para sua transformação digital são citadas po
 conclusão da pesquisa é que 68% dos empresários estão abertos e disponíveis para
 participar de um programa de aceleração da maturidade digital que os ajude no
 caminho da transformação digital.
+
 Estes dados demonstram o potencial de crescimento de vendas e de faturamento. E
 mostra a importância da necessidade de viabilizar ainda mais este tipo de comércio
 aos micros e pequenos empresários, de forma que possam ampliar seu público e
