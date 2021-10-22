@@ -6,29 +6,26 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 ## Personas
 
-| ![](img/jppersona.jpg =50x50)     | JOÃO PEDRO                                                        | |
+| ![](img/jppersona.jpg)     | **JOÃO PEDRO**                                                        | |
 |------|----------------------------------------------------------------------------------------------|------------|
-|Ocupação: proprietário de uma pequena papelaria no seu bairro.       | Idade: 65                        | Aplicativos: WhatsApp | 
-|  Motivações: O sustento e melhoria de vida da sua família | Frustrações: João tem medo de ser dominado pelo mundo tecnológico e ficar para trás.  | Hobbies: Pescaria, Jogos de Futebol e Bar com os amigos.      |
+|* Ocupação: proprietário de uma pequena papelaria no seu bairro.       | * Idade: 65                        | * Aplicativos: WhatsApp | 
+|  * Motivações: O sustento e melhoria de vida da sua família | * Frustrações: João tem medo de ser dominado pelo mundo tecnológico e ficar para trás.  | * Hobbies: Pescaria, Jogos de Futebol e Bar com os amigos.      |
 
-|      | JULIANA                                                                                  |            |
+|      | **JULIANA**                                                                                 |            |
 |------|----------------------------------------------------------------------------------------------|------------|
-|      | Idade: 50                                                                           | Aplicativos: WhatsApp, Facebook, Instagram| 
-|       | Ocupação: proprietária de uma loja de roupas infantil.                      |     |
-|  Motivações: Inovar e crescer no ramo da moda infantil  | Frustrações: Medo de perder mercado para as grandes redes e lojas de roupa.  | Hobbies: Culinária, academia e passeios 
+| * Ocupação: proprietária de uma loja de roupas infantil.       | * Idade: 50                     | * Aplicativos: WhatsApp, Facebook, Instagram| 
+|  * Motivações: Inovar e crescer no ramo da moda infantil  | * Frustrações: Medo de perder mercado para as grandes redes e lojas de roupa.  | * Hobbies: Culinária, academia e passeios 
 
 
-|      | DIEGO                                                                                  |            |
+|      | **DIEGO**                                                                                |            |
 |------|----------------------------------------------------------------------------------------------|------------|
-|      | Idade: 25                                                                           | Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube| 
-|       | Ocupação: proprietário de um Pet Shop                     |     |
-|  Motivações: Crescer e expandir sua loja no mercado pet.   | Frustrações: Perder mercado para grandes redes de Pet Shop como, Petz, Cobasi entre outras. | Hobbies: Esportes, Viagens, Filmes e vídeos de diversos conteúdo. 
+| * Ocupação: proprietário de um Pet Shop      | * Idade: 25                             | * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube| 
+| * Motivações: Crescer e expandir sua loja no mercado pet.   | * Frustrações: Perder mercado para grandes redes de Pet Shop como, Petz, Cobasi entre outras. | * Hobbies: Esportes, Viagens, Filmes e vídeos de diversos conteúdo. 
 
-|      | LUIZA                                                                                 |            |
+|      | **LUIZA**                                                                                 |            |
 |------|----------------------------------------------------------------------------------------------|------------|
-|      | Idade: 27                                                                           | Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
-|       | Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.                     |     |
-|  Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | Hobbies: Leitura, viagens, exposições culturais e artísticas. 
+| * Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.  | * Idade: 27    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
+| * Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | * Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | * Hobbies: Leitura, viagens, exposições culturais e artísticas. 
  
 
 
