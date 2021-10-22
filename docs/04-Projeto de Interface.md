@@ -42,3 +42,5 @@ Componente de  Relatório que leva o usuário a área de relatório de postagens
 
 ![Figura 4 - Tela Inicial - Dashboard ](img/dashboard.png)
 Figura 4 - Tela Inicial - Dashboard 
+
+
