@@ -21,21 +21,27 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|--------------------------------------------|----------------------------------------|
+|João Pedro          | Ingressar minha loja nas redes sociais;    | Obter mais clientes, que foram perdidos|
+|                    | Conseguir realizar postagens sobre produtos| com a chegada das lojas digitais.      |
+|                    | de maneira personalizada;                  |                                        |
+|                    | Quer orientação para usar a plataforma;    |                                        |
+|--------------------| -------------------------------------------|----------------------------------------|
+|Juliana             | Verificar o engajamento de suas publicações| Conectar clientes e conseguir crescer  |
+|                    | nas suas redes sociais de uma forma simples| no ramo da moda infantil               |
+|                    |                                            |                                        |
+|--------------------| -------------------------------------------|----------------------------------------|
+|Diego               | Um local único que integre todas as redes  | Ampliar seus canais de vendas e        |
+|                    | socias;                                    | divulgação dos serviços e produtos em  |
+|                    | Ter um calendário de publicações;          | busca de crescimento do empresa nas    |
+|                    |                                            | redes sociais.                         |
+|--------------------| -------------------------------------------|----------------------------------------|
+|Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais |
+|                    | Escalabilidade das suas redes sociais      | e pontecializar seu marketing.         |
+|                    | atingindo um grande número de clientes;    |                                        |
+|                    | Aumentar o seu ramo de atividades.         |                                        |
+|--------------------| -------------------------------------------|----------------------------------------|
 
 ## Requisitos
 
