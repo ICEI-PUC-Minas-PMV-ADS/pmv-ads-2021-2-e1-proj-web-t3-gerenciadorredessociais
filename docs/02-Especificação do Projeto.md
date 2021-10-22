@@ -35,11 +35,26 @@ Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------|----------------------------------------|
-|João Pedro          | Ingressar minha loja nas redes sociais.    | Obter mais clientes, que foram perdidos|
+|João Pedro          | Ingressar minha loja nas redes sociais;    | Obter mais clientes, que foram perdidos|
 |                    | Conseguir realizar postagens sobre produtos| com a chegada das lojas digitais.      |
-|                    | de maneira personalizada.                  |                                        |
-|                    | Quer orientação para usar a plataforma     |                                        |
+|                    | de maneira personalizada;                  |                                        |
+|                    | Quer orientação para usar a plataforma;    |                                        |
 |--------------------| -------------------------------------------|----------------------------------------|
+|Juliana             | Verificar o engajamento de suas publicações| Conectar clientes e conseguir crescer  |
+|                    | nas suas redes sociais de uma forma simples| no ramo da moda infantil               |
+|                    |                                            |                                        |
+|--------------------| -------------------------------------------|----------------------------------------|
+|Diego               | Um local único que integre todas as redes  | Ampliar seus canais de vendas e        |
+|                    | socias;                                    | divulgação dos serviços e produtos em  |
+|                    | Ter um calendário de publicações;          | busca de crescimento do empresa nas    |
+|                    |                                            | redes sociais.                         |
+|--------------------| -------------------------------------------|----------------------------------------|
+|Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais |
+|                    | Escalabilidade das suas redes sociais      | e pontecializar seu marketing.         |
+|                    | atingindo um grande número de clientes;    |                                        |
+|                    | Aumentar o seu ramo de atividades.         |                                        |
+|--------------------| -------------------------------------------|----------------------------------------|
+
 
 
 Quer orientação para usar a plataforma           | Não esquecer de fazê-las               |
