@@ -6,7 +6,7 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 ## Personas
 
-|      | JOÃO PEDRO                                                                                  |            |
+| ![](img/joaopedropersona.jpg)     | JOÃO PEDRO                                                                                  |            |
 |------|----------------------------------------------------------------------------------------------|------------|
 |      | Idade: 65                                                                          | Aplicativos: WhatsApp | 
 |       | Ocupação: proprietário de uma pequena papelaria no seu bairro.                       |     |
