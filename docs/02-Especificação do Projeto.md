@@ -6,13 +6,33 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 ## Personas
 
-|                        | Idade: 65                                | Aplicativos:                          |
-|    JOÃO PEDRO          | Ocupação:Proprietário de uma <br>        |  * WhatsApp                           |
-|                        | pequena papelaria no seu bairro          |                                       |
-|Motivações:             |Frustações:                               | Hobbies                               |
-| * O sustento e melhoria|* João tem medo de ser dominado pelo < br>| * Pescaria, Jogos de Futebol e Bar    |
-| de vida da sua família |mundo tecnologico e ficar para trás |  com os amigos                        |
-|                        |                                    |                                       |
+|      | JOÃO PEDRO                                                                                  |            |
+|------|----------------------------------------------------------------------------------------------|------------|
+|      | Idade: 65                                                                          | Aplicativos: WhatsApp | 
+|       | Ocupação: proprietário de uma pequena papelaria no seu bairro.                       |     |
+|  Motivações: O sustento e melhoria de vida da sua família | Frustrações: João tem medo de ser dominado pelo mundo tecnológico e ficar para trás.  | Hobbies: Pescaria, Jogos de Futebol e Bar com os amigos.      |
+
+|      | JULIANA                                                                                  |            |
+|------|----------------------------------------------------------------------------------------------|------------|
+|      | Idade: 50                                                                           | Aplicativos: WhatsApp, Facebook, Instagram| 
+|       | Ocupação: proprietária de uma loja de roupas infantil.                      |     |
+|  Motivações: Inovar e crescer no ramo da moda infantil  | Frustrações: Medo de perder mercado para as grandes redes e lojas de roupa.  | Hobbies: Culinária, academia e passeios 
+
+
+|      | DIEGO                                                                                  |            |
+|------|----------------------------------------------------------------------------------------------|------------|
+|      | Idade: 25                                                                           | Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube| 
+|       | Ocupação: proprietário de um Pet Shop                     |     |
+|  Motivações: Crescer e expandir sua loja no mercado pet.   | Frustrações: Perder mercado para grandes redes de Pet Shop como, Petz, Cobasi entre outras. | Hobbies: Esportes, Viagens, Filmes e vídeos de diversos conteúdo. 
+
+|      | LUIZA                                                                                 |            |
+|------|----------------------------------------------------------------------------------------------|------------|
+|      | Idade: 27                                                                           | Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
+|       | Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.                     |     |
+|  Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | Hobbies: Leitura, viagens, exposições culturais e artísticas. 
+ 
+
+
 
 
 ## Histórias de Usuários
