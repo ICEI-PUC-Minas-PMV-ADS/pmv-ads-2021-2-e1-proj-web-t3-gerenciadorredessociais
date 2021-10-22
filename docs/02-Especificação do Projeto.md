@@ -6,12 +6,12 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 ## Personas
 
-|------------------------|------------------------------------|---------------------------------------|
-|                        | Idade: 65                          | Aplicativos:                          |
-|    JOÃO PEDRO          | Ocupação:Proprietário de uma       |  * WhatsApp                           |
-|                        | pequena papelaria no seu bairro    |                                       |
-|Motivações:             |Frustações:                         | Hobbies                               |
-| * O sustento e melhoria|* João tem medo de ser dominado pelo| * Pescaria, Jogos de Futebol e Bar    |
+|------------------------|------------------------------------      |---------------------------------------|
+|                        | Idade: 65                                | Aplicativos:                          |
+|    JOÃO PEDRO          | Ocupação:Proprietário de uma <br>        |  * WhatsApp                           |
+|                        | pequena papelaria no seu bairro          |                                       |
+|Motivações:             |Frustações:                               | Hobbies                               |
+| * O sustento e melhoria|* João tem medo de ser dominado pelo < br>| * Pescaria, Jogos de Futebol e Bar    |
 | de vida da sua família |mundo tecnologico e ficar para trás |  com os amigos                        |
 |                        |                                    |                                       |
 
