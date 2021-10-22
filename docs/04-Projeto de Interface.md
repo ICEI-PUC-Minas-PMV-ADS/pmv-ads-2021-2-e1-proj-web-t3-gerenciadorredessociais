@@ -8,29 +8,32 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Fluxo do Usuário
-O diagrama apresentado na Figura 3 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar acesse o <a hred="https://marvelapp.com/project/5868481" > </a>
+O diagrama apresentado na Figura 3 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar acesse o [MarvelApp](https://marvelapp.com/project/5868481)
 
 ![Exemplo de UserFlow](img/dashboard.png)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+Figura 3 – Fluxo de telas dos usuários 
 
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles: 
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+## Cabeçalho - local onde são dispostos elementos fixos de cada seção. 
+
+## Conteúdo - apresenta o conteúdo da tela em questão; 
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+# Tela - Dashboard 
+
+A tela ## Dashboard, mostra uma barra superior fixa indicando cada seção e abaixo vários quadros apresentando em cada um a API da rede social desejada. 
+
+Componente de ## Dashboard que permite o usuário ver a página inicial que contém todas as API’s de redes sociais. 
+
+Componente de ## Agendar post que leva o usuário a página de agendamento de postagens. 
+
+Componente de ## Inbox que leva o usuário a área de mensagens das suas redes sociais. 
+
+Componente de ## Ads que leva o usuário a área de anúncios das suas redes sociais. 
+
+Componente de ## Calendário que leva o usuário a área de calendário de postagens. 
+
+Componente de ## Relatório que leva o usuário a área de relatório de postagens. 
