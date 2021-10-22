@@ -5,19 +5,16 @@
 Por meio da vivência e dificuldades expostas pelos usuários das redes sociais comerciais foi definido pelo grupo o problema a ser solucionado e seus relevantes pontos a serem considerados. Os detalhes apresentados nesse processo foram consolidados no modo de personas e histórias de usuários. 
 
 ## Personas
-|------------------------|------------------------------------|---------------------------------------|
-|                        |                            JOÃO PEDRO                                      |
+
 |------------------------|------------------------------------|---------------------------------------|
 |                        | Idade: 65                          | Aplicativos:                          |
-|                        | Ocupação:Proprietário de uma       |  * WhatsApp                           |
+|    JOÃO PEDRO          | Ocupação:Proprietário de uma       |  * WhatsApp                           |
 |                        | pequena papelaria no seu bairro    |                                       |
--------------------------|------------------------------------|---------------------------------------|
 |Motivações:             |Frustações:                         | Hobbies                               |
 | * O sustento e melhoria|* João tem medo de ser dominado pelo| * Pescaria, Jogos de Futebol e Bar    |
 | de vida da sua família |mundo tecnologico e ficar para trás |  com os amigos                        |
 |                        |                                    |                                       |
-|                        |                                    |                                       |
-|------------------------|------------------------------------|---------------------------------------|
+
 
 ## Histórias de Usuários
 
@@ -27,21 +24,18 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 |                    | Conseguir realizar postagens sobre produtos| com a chegada das lojas digitais.      |
 |                    | de maneira personalizada;                  |                                        |
 |                    | Quer orientação para usar a plataforma;    |                                        |
-|--------------------| -------------------------------------------|----------------------------------------|
 |Juliana             | Verificar o engajamento de suas publicações| Conectar clientes e conseguir crescer  |
 |                    | nas suas redes sociais de uma forma simples| no ramo da moda infantil               |
 |                    |                                            |                                        |
-|--------------------| -------------------------------------------|----------------------------------------|
 |Diego               | Um local único que integre todas as redes  | Ampliar seus canais de vendas e        |
 |                    | socias;                                    | divulgação dos serviços e produtos em  |
 |                    | Ter um calendário de publicações;          | busca de crescimento do empresa nas    |
 |                    |                                            | redes sociais.                         |
-|--------------------| -------------------------------------------|----------------------------------------|
 |Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais |
 |                    | Escalabilidade das suas redes sociais      | e pontecializar seu marketing.         |
 |                    | atingindo um grande número de clientes;    |                                        |
 |                    | Aumentar o seu ramo de atividades.         |                                        |
-|--------------------| -------------------------------------------|----------------------------------------|
+
 
 ## Requisitos
 
