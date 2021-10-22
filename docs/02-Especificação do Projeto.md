@@ -6,7 +6,6 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 ## Personas
 
-|------------------------|------------------------------------      |---------------------------------------|
 |                        | Idade: 65                                | Aplicativos:                          |
 |    JOÃO PEDRO          | Ocupação:Proprietário de uma <br>        |  * WhatsApp                           |
 |                        | pequena papelaria no seu bairro          |                                       |
