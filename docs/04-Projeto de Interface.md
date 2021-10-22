@@ -1,11 +1,8 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Um projeto de interface envolve o desenvolvimento de protótipos de interfaces. Alguns elementos, tais como usabilidade, consistência, navegabilidade, interatividade, clareza, flexibilidade, funcionalidade e legibilidade, devem ser considerados no processo de produção dessas interfaces. 
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Fluxo do Usuário
 O diagrama apresentado na Figura 3 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar acesse o [MarvelApp](https://marvelapp.com/project/5868481)
@@ -42,5 +39,14 @@ Componente de  Relatório que leva o usuário a área de relatório de postagens
 
 ![Figura 4 - Tela Inicial - Dashboard ](img/dashboard.png)
 Figura 4 - Tela Inicial - Dashboard 
+
+
+# Tela - Agendar Post 
+
+A tela de Agendar Post apresenta, local para selecionar o perfil da sua rede social, local para selecionar o canal, local para escrever a descrição da publicação, local para inserir a imagem ou vídeo, local para ver como irá ficar a prévia da publicação na rede social.
+
+![Figura 5 – Agendar Post](img/Agendar_Post.jpg)
+Figura 5 – Agendar Post 
+
 
 
