@@ -14,6 +14,7 @@ O diagrama apresentado na Figura 3 mostra o fluxo de interação do usuário pel
 Figura 3 – Fluxo de telas dos usuários 
 
 
+
 ## Wireframes
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles: 
@@ -21,6 +22,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
  Cabeçalho - local onde são dispostos elementos fixos de cada seção. 
 
 Conteúdo - apresenta o conteúdo da tela em questão; 
+ 
  
 ## Tela - Dashboard 
 
@@ -39,3 +41,4 @@ Componente de Calendário que leva o usuário a área de calendário de postagen
 Componente de  Relatório que leva o usuário a área de relatório de postagens. 
 
 ![Figura 4 - Tela Inicial - Dashboard ](img/dashboard.png)
+Figura 4 - Tela Inicial - Dashboard 
