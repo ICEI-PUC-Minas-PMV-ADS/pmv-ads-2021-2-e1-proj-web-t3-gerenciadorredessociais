@@ -19,20 +19,14 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------|----------------------------------------|
-|João Pedro          | Ingressar minha loja nas redes sociais;    | Obter mais clientes, que foram perdidos|
-|                    | Conseguir realizar postagens sobre produtos| com a chegada das lojas digitais.      |
-|                    | de maneira personalizada;                  |                                        |
+|João Pedro          | Ingressar minha loja nas redes sociais;        | Obter mais clientes, que foram perdidos com a chegada das lojas digitais. |
+|                    | Conseguir realizar postagens sobre produtos de maneira personalizada;   |           |
 |                    | Quer orientação para usar a plataforma;    |                                        |
-|Juliana             | Verificar o engajamento de suas publicações| Conectar clientes e conseguir crescer  |
-|                    | nas suas redes sociais de uma forma simples| no ramo da moda infantil               |
-|                    |                                            |                                        |
-|Diego               | Um local único que integre todas as redes  | Ampliar seus canais de vendas e        |
-|                    | socias;                                    | divulgação dos serviços e produtos em  |
-|                    | Ter um calendário de publicações;          | busca de crescimento do empresa nas    |
-|                    |                                            | redes sociais.                         |
-|Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais |
-|                    | Escalabilidade das suas redes sociais      | e pontecializar seu marketing.         |
-|                    | atingindo um grande número de clientes;    |                                        |
+|Juliana             | Verificar o engajamento de suas publicações nas suas redes sociais de uma forma simples| Conectar clientes e conseguir crescer no ramo da moda infantil|
+|Diego               | Um local único que integre todas as redes socias; | Ampliar seus canais de vendas e divulgação dos serviços e produtos em busca de crescimento da empresa nas redes sociais.       |
+|                    | Ter um calendário de publicações;          |     |
+|Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais e pontecializar seu marketing. |
+|                    | Escalabilidade das suas redes sociais atingindo um grande número de clientes;      |          |
 |                    | Aumentar o seu ramo de atividades.         |                                        |
 
 
