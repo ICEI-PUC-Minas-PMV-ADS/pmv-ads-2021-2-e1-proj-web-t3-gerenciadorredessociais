@@ -10,7 +10,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ## Fluxo do Usuário
 O diagrama apresentado na Figura 3 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar acesse o [MarvelApp](https://marvelapp.com/project/5868481)
 
-![Figura 3 – Fluxo de telas dos usuários](img/fluxo gerenciador.png)
+![Figura 3 – Fluxo de telas dos usuários](img/fluxo_gerenciador.png)
 Figura 3 – Fluxo de telas dos usuários 
 
 
