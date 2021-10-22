@@ -7,7 +7,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
-## User Flow
+## Fluxo do Usuário
+O diagrama apresentado na Figura 3 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar acesse o <a hred="https://marvelapp.com/project/5868481" > </a>
 
 ![Exemplo de UserFlow](img/dashboard.png)
 
