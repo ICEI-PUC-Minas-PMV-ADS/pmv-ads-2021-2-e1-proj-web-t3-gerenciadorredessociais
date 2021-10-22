@@ -6,7 +6,7 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 
 ## Personas
 
-| ![](img/jppersona.jpg =50x50)     | JOÃO PEDRO                                                                                            |
+| ![](img/jppersona.jpg =50x50)     | JOÃO PEDRO                                                        | |
 |------|----------------------------------------------------------------------------------------------|------------|
 |Ocupação: proprietário de uma pequena papelaria no seu bairro.       | Idade: 65                        | Aplicativos: WhatsApp | 
 |  Motivações: O sustento e melhoria de vida da sua família | Frustrações: João tem medo de ser dominado pelo mundo tecnológico e ficar para trás.  | Hobbies: Pescaria, Jogos de Futebol e Bar com os amigos.      |
