@@ -5,11 +5,16 @@
 Por meio da vivência e dificuldades expostas pelos usuários das redes sociais comerciais foi definido pelo grupo o problema a ser solucionado e seus relevantes pontos a serem considerados. Os detalhes apresentados nesse processo foram consolidados no modo de personas e histórias de usuários. 
 
 ## Personas
+<<<<<<< Updated upstream
 |------------------------|------------------------------------|---------------------------------------|
-|                        |                            JOÃO PEDRO                                      |
+=======
+
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+
 |------------------------|------------------------------------|---------------------------------------|
 |                        | Idade: 65                          | Aplicativos:                          |
-|                        | Ocupação:Proprietário de uma       |  * WhatsApp                           |
+|      JOÃO PEDRO        | Ocupação:Proprietário de uma       |  * WhatsApp                           |
 |                        | pequena papelaria no seu bairro    |                                       |
 -------------------------|------------------------------------|---------------------------------------|
 |Motivações:             |Frustações:                         | Hobbies                               |
@@ -18,30 +23,38 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 |                        |                                    |                                       |
 |                        |                                    |                                       |
 |------------------------|------------------------------------|---------------------------------------|
+=======
+
+
+Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+
+>>>>>>> Stashed changes
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|--------------------------------------------|----------------------------------------|
+|João Pedro          | Ingressar minha loja nas redes sociais.    | Obter mais clientes, que foram perdidos|
+|                    | Conseguir realizar postagens sobre produtos| com a chegada das lojas digitais.      |
+|                    | de maneira personalizada.                  |                                        |
+|                    | Quer orientação para usar a plataforma     |                                        |
+|--------------------| -------------------------------------------|----------------------------------------|
+
+
+Quer orientação para usar a plataforma           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Ao começar um projeto todos os requisitos devem ser levantados, entendidos e documentado. O escopo deste projeto é definido por meio de requisitos funcionais, que são as características que definem os critérios de aceitação do produto e a necessidade do cliente, e requisitos não funcionais que é voltado pelas características de qualidade que o sistema todo ou uma funcionalidade em específico deve ter. A seguir estes requisitos são apresentados. 
 
 ### Requisitos Funcionais
+
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
