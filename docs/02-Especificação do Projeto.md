@@ -5,7 +5,7 @@
 Por meio da vivência e dificuldades expostas pelos usuários das redes sociais comerciais foi definido pelo grupo o problema a ser solucionado e seus relevantes pontos a serem considerados. Os detalhes apresentados nesse processo foram consolidados no modo de personas e histórias de usuários. 
 
 ## Personas
-
+|------------------------|------------------------------------|---------------------------------------|
 |                        |                            JOÃO PEDRO                                      |
 |------------------------|------------------------------------|---------------------------------------|
 |                        | Idade: 65                          | Aplicativos:                          |
