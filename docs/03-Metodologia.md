@@ -3,75 +3,56 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla os procedimentos a serem adotados pela equipe, neste item deve ser descrito como o projeto será realizado para o cumprimento e manutenção dos objetivos propostos e mencionado os artefatos para a organização e execução das tarefas no projeto.
 
-## Controle de Versão
+## Relação de Ambientes de Trabalho
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+|              Ambiente              |   Plataforma   |      Link de Acesso       |
+|------------------------------------|----------------|---------------------------|
+| Repositório de código fonte        | GitHub         | https://bityli.com/9YrCdW |
+| Documentos do projeto              | Documento Word | https://bityli.com/dLNHHu |
+| Projeto de Interface e  Wireframes | Marvelapp      | https://bityli.com/E5k2iY |
+| Gerenciamento do Projeto           | Trello         | https://bityli.com/3GnQIg |
 
-O projeto segue a seguinte convenção para o nome de branches:
+## Gestão de código fonte
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+O grupo usa o Git Classroom para gestão do código fonte. Link para o diretório: https://bityli.com/OIQ7Qv
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+## Gerenciamento do Projeto
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+Como metodologia a equipe definiu uma abordagem de gerenciamento de projetos baseada na metodologia ágil, o SCRUM. 
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+A equipe está organizada da seguinte maneira:
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+* Scrum Master: Gustavo dos Anjos Mendes Costa
+* Product Owner: Rafael de Abreu Oliveira
+* Equipe de Desenvolvimento
+    * Kênia Maria da Cunha 
+    * Erica Couto Rocha Cicero
+* Equipe de Design: Gabriel Eduardo Palhares
 
-## Gerenciamento de Projeto
+Para uma melhor organização e distribuição das atividades do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
 
-### Divisão de Papéis
+* Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. 
 
-Apresente a divisão de papéis entre os membros do grupo.
+* Backlog: uma lista de tarefas a serem executadas. Representa o Product Backlog, onde descreve todas as atividades de acordo as histórias de usuário que ainda não foram implementadas no produto além das suas prioridades. 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+* To Do: nesta lista vai conter as tarefas que serão implementados no sprint, a vigente, o que representa o Sprint Backlog.  
 
-### Processo
+* Doing: Trabalho em andamento. 
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+* Done: etapa importante no ciclo, acompanhamento de todos os itens de trabalho concluídos com teste, dentro do controle de qualidade e informações sobre o desempenho do recurso. Isso também envolve acompanhamentos com clientes e está pronto para entrega. 
 
-### Ferramentas
+* Blocked: quando há algum impedimento na conclusão da tarefa, ela é movida para esta lista, é muito importante deixar um comentário ou anexo com as informações sobre o motivo do bloqueio. 
 
-As ferramentas empregadas no projeto são:
+O quadro do grupo no Trello está disponível através da URL https://bityli.com/gjzzRC e é apresentado, na figura 1.
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+![](img/trello.png)
+Figura 1 – Quadro do Trello
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+A tarefas são etiquetadas de acordo com a real necessidade e prioridade e estão estabelecidas no seguinte esquema de cores/categorias:  
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+* Prioridade Alta/ Prioridade Média/ Prioridade Baixa
+
+![](img/etiquetas.png)
+Figura 2 – Etiquetas do Trello
