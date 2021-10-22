@@ -48,6 +48,7 @@ Para uma melhor organização e distribuição das atividades do projeto, a equi
 O quadro do grupo no Trello está disponível através da URL https://bityli.com/gjzzRC e é apresentado, na figura 1.
 
 ![](img/trello.png)
+
 Figura 1 – Quadro do Trello
 
 A tarefas são etiquetadas de acordo com a real necessidade e prioridade e estão estabelecidas no seguinte esquema de cores/categorias:  
@@ -55,4 +56,5 @@ A tarefas são etiquetadas de acordo com a real necessidade e prioridade e estã
 * Prioridade Alta/ Prioridade Média/ Prioridade Baixa
 
 ![](img/etiquetas.png)
+
 Figura 2 – Etiquetas do Trello
