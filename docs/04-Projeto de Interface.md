@@ -18,22 +18,24 @@ Figura 3 – Fluxo de telas dos usuários
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles: 
 
-## Cabeçalho - local onde são dispostos elementos fixos de cada seção. 
+ Cabeçalho - local onde são dispostos elementos fixos de cada seção. 
 
-## Conteúdo - apresenta o conteúdo da tela em questão; 
+Conteúdo - apresenta o conteúdo da tela em questão; 
  
-# Tela - Dashboard 
+## Tela - Dashboard 
 
 A tela ## Dashboard, mostra uma barra superior fixa indicando cada seção e abaixo vários quadros apresentando em cada um a API da rede social desejada. 
 
-Componente de ## Dashboard que permite o usuário ver a página inicial que contém todas as API’s de redes sociais. 
+Componente de  Dashboard que permite o usuário ver a página inicial que contém todas as API’s de redes sociais. 
 
-Componente de ## Agendar post que leva o usuário a página de agendamento de postagens. 
+Componente de  Agendar post que leva o usuário a página de agendamento de postagens. 
 
-Componente de ## Inbox que leva o usuário a área de mensagens das suas redes sociais. 
+Componente de  Inbox que leva o usuário a área de mensagens das suas redes sociais. 
 
-Componente de ## Ads que leva o usuário a área de anúncios das suas redes sociais. 
+Componente de  Ads que leva o usuário a área de anúncios das suas redes sociais. 
 
-Componente de ## Calendário que leva o usuário a área de calendário de postagens. 
+Componente de Calendário que leva o usuário a área de calendário de postagens. 
 
-Componente de ## Relatório que leva o usuário a área de relatório de postagens. 
+Componente de  Relatório que leva o usuário a área de relatório de postagens. 
+
+![Figura 4 - Tela Inicial - Dashboard ](img/dashboard.png)
