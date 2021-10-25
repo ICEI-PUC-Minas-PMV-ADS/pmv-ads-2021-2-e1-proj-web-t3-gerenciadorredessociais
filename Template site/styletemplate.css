@@ -1,0 +1,33 @@
+body {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-areas:
+      "header header header"
+      "main main main"
+      "footer footer footer";
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin:0;
+}
+  
+.menu-principal {
+    grid-area: header;
+    height:150px;
+}
+  
+.conteudo {
+    grid-area: main;
+    height:520px;
+}  
+  
+.rodape {
+    grid-area: footer;
+    height:50px;
+}
+  
+.menu-principal, .conteudo, .rodape {
+    background: rgb(174, 174, 177);
+    color: rgb(8, 0, 0)
+}
