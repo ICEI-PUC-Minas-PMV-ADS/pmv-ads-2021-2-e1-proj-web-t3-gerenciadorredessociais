@@ -10,7 +10,6 @@ Neste projeto, a solução que buscamos se baseia em diminuir a dificuldade que 
 
 ## Integrantes
 
-* Erica Couto Rocha Cicero
 * Gabriel Eduardo Palhares
 * Gustavo dos Anjos Mendes Costa
 * Kenia Maria da Cunha
