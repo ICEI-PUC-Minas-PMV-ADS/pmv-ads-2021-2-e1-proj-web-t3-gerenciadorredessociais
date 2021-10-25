@@ -73,6 +73,8 @@ Figura 7 – Ads
 A tela de Calendário apresenta, uma barra de filtros para selecionar: O Status do post (Publicado ou Agendado), os canal ou canais desejados por uma barra de checkbox e as datas que deseja ver. 
 ![Figura 5 – Calendário ](img/calendario.png)
 
+Figura 5 – Calendário
+
 # Tela - Relatório 
 
 A tela de Relatório apresenta, um local em que possa visualizar as métricas de cada rede social, bem parecido com a página dashboard. Em cada quadrado irá mostrar os números de desempenho de cada rede social mostrada na imagem. 
