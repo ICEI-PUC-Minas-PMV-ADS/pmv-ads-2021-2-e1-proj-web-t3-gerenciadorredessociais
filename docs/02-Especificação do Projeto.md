@@ -5,33 +5,7 @@
 Por meio da vivência e dificuldades expostas pelos usuários das redes sociais comerciais foi definido pelo grupo o problema a ser solucionado e seus relevantes pontos a serem considerados. Os detalhes apresentados nesse processo foram consolidados no modo de personas e histórias de usuários. 
 
 ## Personas
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-|------------------------|------------------------------------|---------------------------------------|
-=======
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-
-|------------------------|------------------------------------|---------------------------------------|
-|                        | Idade: 65                          | Aplicativos:                          |
-|      JOÃO PEDRO        | Ocupação:Proprietário de uma       |  * WhatsApp                           |
-|                        | pequena papelaria no seu bairro    |                                       |
--------------------------|------------------------------------|---------------------------------------|
-|Motivações:             |Frustações:                         | Hobbies                               |
-| * O sustento e melhoria|* João tem medo de ser dominado pelo| * Pescaria, Jogos de Futebol e Bar    |
-| de vida da sua família |mundo tecnologico e ficar para trás |  com os amigos                        |
-|                        |                                    |                                       |
-|                        |                                    |                                       |
-|------------------------|------------------------------------|---------------------------------------|
-=======
-
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
->>>>>>> Stashed changes
-=======
->>>>>>> main
 
 | ![](img/jppersona.jpg)     | **JOÃO PEDRO**                                                        | | 
 |------|----------------------------------------------------------------------------------------------|------------|
@@ -49,46 +23,11 @@ Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se de
 | * Ocupação: proprietário de um Pet Shop      | * Idade: 25                             | * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube| 
 | * Motivações: Crescer e expandir sua loja no mercado pet.   | * Frustrações: Perder mercado para grandes redes de Pet Shop como, Petz, Cobasi entre outras. | * Hobbies: Esportes, Viagens, Filmes e vídeos de diversos conteúdo. 
 
-<<<<<<< HEAD
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|--------------------------------------------|----------------------------------------|
-|João Pedro          | Ingressar minha loja nas redes sociais;    | Obter mais clientes, que foram perdidos|
-|                    | Conseguir realizar postagens sobre produtos| com a chegada das lojas digitais.      |
-|                    | de maneira personalizada;                  |                                        |
-|                    | Quer orientação para usar a plataforma;    |                                        |
-|--------------------| -------------------------------------------|----------------------------------------|
-|Juliana             | Verificar o engajamento de suas publicações| Conectar clientes e conseguir crescer  |
-|                    | nas suas redes sociais de uma forma simples| no ramo da moda infantil               |
-|                    |                                            |                                        |
-|--------------------| -------------------------------------------|----------------------------------------|
-|Diego               | Um local único que integre todas as redes  | Ampliar seus canais de vendas e        |
-|                    | socias;                                    | divulgação dos serviços e produtos em  |
-|                    | Ter um calendário de publicações;          | busca de crescimento do empresa nas    |
-|                    |                                            | redes sociais.                         |
-|--------------------| -------------------------------------------|----------------------------------------|
-|Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais |
-|                    | Escalabilidade das suas redes sociais      | e pontecializar seu marketing.         |
-|                    | atingindo um grande número de clientes;    |                                        |
-|                    | Aumentar o seu ramo de atividades.         |                                        |
-|--------------------| -------------------------------------------|----------------------------------------|
-
-
-
-Quer orientação para usar a plataforma           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-=======
 | ![](img/luizapersona.jpg)      | **LUIZA**                                                                         |         |            
 |------|----------------------------------------------------------------------------------------------|------------|
 | * Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.  | * Idade: 27    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
 | * Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | * Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | * Hobbies: Leitura, viagens, exposições culturais e artísticas. 
- 
 
->>>>>>> main
-
-
-<<<<<<< HEAD
-=======
 
 ## Histórias de Usuários
 
@@ -104,7 +43,7 @@ Quer orientação para usar a plataforma           | Não esquecer de fazê-las 
 |                    | Escalabilidade das suas redes sociais atingindo um grande número de clientes;      |          |
 |                    | Aumentar o seu ramo de atividades.         |                                        |
 
->>>>>>> main
+
 
 ## Requisitos
 
@@ -112,15 +51,9 @@ Ao começar um projeto todos os requisitos devem ser levantados, entendidos e do
 
 ### Requisitos Funcionais
 
-<<<<<<< HEAD
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
-=======
 |ID    | Descrição do Requisito                                                                       | Prioridade |
 |------|----------------------------------------------------------------------------------------------|------------|
 |RF-001| O site deve apresentar uma plataforma de integração com redes sociais obtidas por meio de API| ALTA       | 
@@ -133,7 +66,6 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-008| O site deve apresentar uma API de criação de posts.                                          | BAIXA      |
 |RF-009| O site deve apresentar dicas de marketing digital.                                           | BAIXA      |
 |RF-010| O site deve apresentar um guia de utilização.                                                | BAIXA      |
->>>>>>> main
 
 ### Requisitos não Funcionais
 
