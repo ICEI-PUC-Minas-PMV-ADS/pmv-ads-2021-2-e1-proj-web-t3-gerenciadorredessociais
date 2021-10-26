@@ -56,7 +56,7 @@ Figura 5 – Agendar Post
 A tela de Inbox apresenta, um local onde irá aparecer as mensagens da rede social desejada.    
 
 
-![Figura 6 – Inbox](img/ibox.png)
+![Figura 6 – Inbox](img/inbox.png)
 
 Figura 6 – Inbox 
 
