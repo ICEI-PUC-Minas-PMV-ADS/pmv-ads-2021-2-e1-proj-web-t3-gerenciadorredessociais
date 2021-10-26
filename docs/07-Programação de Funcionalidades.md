@@ -8,6 +8,7 @@ RF-04 O site deve permitir fazer login com a conta da rede social.
 A tela principal do sistema apresenta login de Redes Sociais. E uma funcionalidade implementada foi a de Login nas Redes Sociais.  
 
 **Requisitos atendidos** 
+
 ● RF-04 
 
 * Artefatos da funcionalidade 
