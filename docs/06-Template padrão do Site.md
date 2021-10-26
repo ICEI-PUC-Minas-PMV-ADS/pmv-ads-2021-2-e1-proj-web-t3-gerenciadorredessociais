@@ -10,12 +10,12 @@ Cabeçalho: uma barra superior onde estão dispostos elementos fixos de cada se�
 
 Conteúdo: vários quadros apresentando em cada um a API da rede social desejada. 
 
-#Tela Principal 
+# Tela Principal 
 ![Tela Principal](img/teladashboard.png)
 
 Tela que abrange todos logins de Redes Sociais e um menu superior. 
 
-#Tela de Login do Facebook  
-![Tela de Login do Facebook  ](img/tela_ogin_face.png)
+# Tela de Login do Facebook  
+![Tela de Login do Facebook  ](img/tela_login_face.png)
 
 Api de login com facebook. Após clicar em login na rede social Facebook abre esta janela de login. 
