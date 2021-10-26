@@ -7,7 +7,7 @@ RF-04 O site deve permitir fazer login com a conta da rede social.
 
 A tela principal do sistema apresenta login de Redes Sociais. E uma funcionalidade implementada foi a de Login nas Redes Sociais.  
 
-*Requisitos atendidos 
+**Requisitos atendidos** 
 ● RF-04 
 
 * Artefatos da funcionalidade 
@@ -17,6 +17,6 @@ A tela principal do sistema apresenta login de Redes Sociais. E uma funcionalida
 ● img/ 
  
 
-*Instruções de acesso 
+**Instruções de acesso**
 1. Abra um navegador de Internet e informe a seguinte URL:  https://gustavocostamarketing.github.io/projeto-novo/ 
 
