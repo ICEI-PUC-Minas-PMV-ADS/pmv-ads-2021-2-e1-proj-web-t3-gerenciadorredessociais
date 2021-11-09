@@ -13,7 +13,6 @@ Neste projeto, a solução que buscamos se baseia em diminuir a dificuldade que 
 * Gabriel Eduardo Palhares
 * Gustavo dos Anjos Mendes Costa
 * Kenia Maria da Cunha
-* Rafael de Abreu Oliveira
 
 ## Orientador
 
