@@ -4,7 +4,7 @@ function statusChangeCallback(response) {  // Called with the results from FB.ge
     if (response.status === 'connected') {   // Logged into your webpage and Facebook.
       testAPI();  
     } else {                                 // Not logged into your webpage or we are unable to tell.
-      document.getElementById('status').innerHTML = 'Please log ' +
+       document.getElementById('status').innerHTML = 'Please log ' +
         'into this webpage.';
     }
   }
@@ -13,6 +13,8 @@ function statusChangeCallback(response) {  // Called with the results from FB.ge
   function login() {
     FB.login(function(response) {
         if (response.status === 'connected') {
+            document.getElementById('btnFacebook').innerHTML = 'Conectado';
+            document.getElementById('btnFacebook').style.background  =  'green';
             // Logged into your webpage and Facebook.
         } else {
             // The person is not logged into your webpage or we are unable to tell. 
