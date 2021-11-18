@@ -1,9 +1,14 @@
 *{
-  margin: 0;
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+  
+  
 }
+
 
 header a{
   text-decoration: none;
+  color: black;
 }
 ul{
 
@@ -11,18 +16,188 @@ list-style-type: none;
 display: flex;
 text-align: center;
 justify-content: space-around;
-background: gray;
+background: white;
 color: rgb(0, 0, 0);
 padding: 15px;
 font-size: 20px;
 overflow: auto;
-margin: ;
 
 }
 
-.icon{
-  width: 35px;
+.icon-header{
+  width: 50px;
   padding: 5px;
   display: block;
   margin: auto;
 }
+body{
+  background: #dddfe2;
+  
+}
+main{
+  
+  height: 100vh;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 1200px;
+  
+
+  
+}
+
+main.cards section.card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: white;
+  padding: 40px 100px 80px 100px;
+  border-radius: 8px;
+  max-height: 256px;
+  max-width: 256px;
+  margin: 30px;
+
+}
+main.cards{
+  display: flex;
+  padding: 20px;
+  
+
+  
+}
+
+
+main.cards section.card img{
+  width: 70px;
+  
+
+}
+
+main.cards section.card h3{
+  margin: 20px 0;
+  font-weight:25px ;
+  text-decoration: none;
+  
+}
+
+#btn-mobile{
+  display: none;
+
+}
+
+#btnFacebook{
+  width: 100px;
+  padding: 5px;
+ background-color: #4267b2;
+ color: white;
+ font-family: Helvetica, sans-serif;
+ border-radius: 5px;
+border: none;
+}
+#btnFacebook:hover{
+  background-color: rgb(230, 224, 224);
+  color: #4267b2;
+}
+
+#btnInstagram{
+background-color: #ec8b0bdc;
+width: 100px;
+padding: 5px;
+color: white;
+ font-family: Helvetica, sans-serif;
+ border-radius: 5px;
+border: none;
+}
+#btnInstagram:hover{
+  background-color: rgb(230, 224, 224);
+  color: #ec8b0bdc;
+}
+
+#btnTwitter{
+  background-color: #1DA1F2;
+width: 100px;
+padding: 5px;
+color: white;
+ font-family: Helvetica, sans-serif;
+ border-radius: 5px;
+border: none;
+}
+#btnTwitter:hover{
+  background-color: rgb(230, 224, 224);
+  color: #1DA1F2;
+}
+
+#btnYoutube{
+  background-color: #FF0000;
+width: 100px;
+padding: 5px;
+color: white;
+ font-family: Helvetica, sans-serif;
+ border-radius: 5px;
+border: none;
+}
+#btnYoutube:hover{
+  background-color: rgb(230, 224, 224);
+  color: #FF0000;
+}
+
+
+#btnPinterest{
+  background-color: #E60023;
+width: 100px;
+padding: 5px;
+color: white;
+ font-family: Helvetica, sans-serif;
+ border-radius: 5px;
+border: none;
+}
+#btnPinterest:hover{
+  background-color: rgb(230, 224, 224);
+  color: #E60023;
+}
+
+#btnGoogle{
+  background-color: #4285F4;
+width: 100px;
+padding: 5px;
+color: white;
+ font-family: Helvetica, sans-serif;
+ border-radius: 5px;
+border: none;
+}
+#btnGoogle:hover{
+  background-color: rgb(230, 224, 224);
+  color: #4285F4;
+}
+
+@media screen and (max-width: 600px) {
+  #btn-mobile{
+    display: block;
+    margin: auto;
+   }
+
+  #nav.active #menu{
+  display: flex;
+
+   }
+  #nav{
+    width: 100%;
+    background: white;
+    height: 30px;
+  }
+  #menu {
+     display: none;
+
+     
+   }
+
+
+ 
+
+
+}
+

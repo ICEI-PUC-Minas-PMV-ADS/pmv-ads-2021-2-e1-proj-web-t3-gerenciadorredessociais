@@ -19,5 +19,5 @@ A tela principal do sistema apresenta login de Redes Sociais. E uma funcionalida
  
 
 **Instruções de acesso**
-1. Abra um navegador de Internet e informe a seguinte URL:  https://gustavocostamarketing.github.io/projeto-novo/ 
+1. Abra um navegador de Internet e informe a seguinte URL:  https://gustavocostamarketing.github.io/gerenciall/ 
 

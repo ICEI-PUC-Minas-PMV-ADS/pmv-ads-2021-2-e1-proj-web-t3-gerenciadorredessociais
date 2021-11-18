@@ -4,7 +4,7 @@ O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de
 
 Figura 10 - Template padrão do site 
 
-O template criado está disponível no link git@github.com:ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t3-gerenciadorredessociais.git e é composto pelos seguintes layouts:  
+O template criado está disponível no link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t3-gerenciadorredessociais e é composto pelos seguintes layouts:  
 
 Cabeçalho: uma barra superior onde estão dispostos elementos fixos de cada seção. 
 

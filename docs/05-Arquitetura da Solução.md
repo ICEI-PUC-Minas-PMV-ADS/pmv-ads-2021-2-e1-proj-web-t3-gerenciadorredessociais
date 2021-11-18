@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na figura a seguir.
 
-![Diagrama de Componentes](img/componentes.png)
+![Diagrama de Componentes](img/hospedagempages.png)
 <center>Figura 9 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:

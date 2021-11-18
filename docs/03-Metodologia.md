@@ -47,7 +47,7 @@ Para uma melhor organização e distribuição das atividades do projeto, a equi
 
 O quadro do grupo no Trello está disponível através da URL https://bityli.com/gjzzRC e é apresentado, na figura 1.
 
-![](img/trello.png)
+![](img/Trello.png)
 
 Figura 1 – Quadro do Trello
 
