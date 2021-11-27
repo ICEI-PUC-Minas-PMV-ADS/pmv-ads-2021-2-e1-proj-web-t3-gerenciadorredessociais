@@ -33,7 +33,7 @@ background-color: lightgray;
 }
 
 main {
-height: 58em;
+height: 59em;
 width: 100%;
 display: flex;
 justify-content: center;
@@ -69,6 +69,7 @@ max-width: 256px;
 margin: 30px;
 justify-content: space-around;
 align-items: flex-start;
+font-family: Helvetica, sans-serif;
 }
 
 footer {
