@@ -7,18 +7,22 @@
     <title>Gerenciall Social Networks</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <header> 
     <nav id="nav">   
-        <ul id="menu">
-            <li id="inicio"> <a href="#">  <img class="icon-header" src="img/dashboard.png">Dashboard</a></li> 
-            <li id="publicar"> <a href="#">  <img class="icon-header" src="img/agendar.png">Publicar Post</a></li> 
-            <li><a href=""><img class="icon-header" src="img/marketing.png">Ads</a> </li>
-            <li><a href=""><img class="icon-header" src="img/calendar.png">Calendário </a> </li>
-        </ul>    
-    </nav>
-</header>
 
+    <ul id="menu">
+        <li id="inicio"> <a href="#">  <img class="icon-header" src="img/dashboard.png"> 
+            Dashboard </a> </li> 
+        <li id="publicar"> <a href="#">  <img class="icon-header" src="img/agendar.png"> 
+            Publicar Post</a> </li> 
+        <li> <a href=""> <img class="icon-header" src="img/marketing.png"> 
+            Ads </a> </li>
+        <li> <a href=""> <img class="icon-header" src="img/calendar.png"> 
+            Calendário </a> </li>
+    </ul>    
+</nav>
+     
+</header>
 <body>
     <main class="cards">
         
@@ -26,7 +30,7 @@
             <div class="icon">
                 <img src="img/facebook.png" alt="facebook">          
                 <h3>Facebook</h3>
-                <button id="btnFacebook" onclick="login()">Login</button>
+                <button id="btnFacebook" onclick="login()"> Login</button>
             </div>  
         </section>
 
@@ -49,7 +53,6 @@
                 <input type="file" id="midia" accept="image/*" onchange="carregaArquivo(event)">
                 <input type="submit" value="Enviar"><br><br>
             </div>      
-            
             <div class="previa">
                 <div class="editar-conteudo">
                     <span>
@@ -57,16 +60,19 @@
                     </span>
                 </div>
                 <h3> PREVIEW: </h3><br/>
-                <p id="publicacao-texto"></p><br/>
+                <p id="publicacao-texto"></p><br>
                 <div id="publicacao"> 
                     <div class="fecha-preview-js fecha-preview">x</div> 
+                    <br><br>
                 </div>
+                <button id="botaoPublicar" type="button">Publicar</button> <br/><br/>
 
-            </div>           
-           
-        </div>         
-
+            </div>                     
+        </div>   
+            
+        <script src="facebook.script.js"></script>
         <script src="publicarpost.js"></script>
+        
         
     </main>
      
@@ -76,7 +82,5 @@
     <img src="img/logoescrita128.jpg">
     <p class="copyright">&copy; Copyright Gerenciall Social Networks - 2021</p>
 </footer>
-
-
 </body>
 </html>

@@ -1,7 +1,5 @@
 * {
 margin: 0;
-padding: 0;
-box-sizing: border-box;
 }
 
 header a {
@@ -46,8 +44,8 @@ main.cards {
 padding: 20px;
 }
 
-main.cards section.card img {
-width: 70px;
+main.cards section.card img{
+  width: 100px;
 }
 
 main.cards section.card h3 {
@@ -56,20 +54,19 @@ font-weight:25px ;
 text-decoration: none;
 }
 
-main.cards section.card {
-display: flex;
-flex-direction: column;
-align-items: center;
-text-align: center;
-background: white;
-padding: 40px 100px 80px 100px;
-border-radius: 8px;
-max-height: 256px;
-max-width: 256px;
-margin: 30px;
-justify-content: space-around;
-align-items: flex-start;
-font-family: Helvetica, sans-serif;
+main.cards section.card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: white;
+  padding: 45px 100px 45px 100px;
+  border-radius: 8px;
+  max-height: 256px;
+  max-width: 257px;
+  margin: 28px;
+  justify-content: space-around;
+  align-items: flex-start;
 }
 
 footer {
@@ -156,93 +153,107 @@ opacity: 1;
 }
 
 .previa {
-position: relative;
-width: 200px;
-height: 200px;
-float: right  
+  position: relative;
+  width: 300px;
+  height: 300px;
+  float: right  
 }
 
-.formulario {
-float: left;
-}
+.formulario{
+  float: left;
 
+}
 .previa h3 {
-justify-content: center;
-flex-direction: row;
-align-items: center;
-display: flex;
-margin-left: auto;
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  
 }
 
-.fecha-preview {
-font-size: 9px;
-position: absolute;
-right: -20px;
-top: 0px;
-background-color: #000;
-line-height: 10px;
-color: #fff;
-text-align: center;
-font-weight: bold;
-width: 15px;
-height: 13px;
-cursor: pointer;
+.fecha-preview{
+  font-size: 9px;
+  position: absolute;
+  right: -20px;
+  top: 0px;
+  background-color: #000;
+  line-height: 10px;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  width: 15px;
+  height: 13px;
+  cursor: pointer;
+}
+#publicacao-texto{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
 }
 
-#publicacao-texto {
-font-family: Georgia, 'Times New Roman', Times, serif;
-text-align: center;
+#publicacao{
+  left: 0;
+  top: 40px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: none;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+
+}
+.editar-conteudo{
+  left: 0px;
+  position: absolute;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  height: 100%;
+  vertical-align: middle;
+  display: table;
+  width: 100%;
+  opacity: 0;
+  cursor: pointer;
+  top: 112px;
 }
 
-#publicacao {
-width: 100%;
-left: 0;
-top: 40px;
-height: 100%;
-background-repeat: no-repeat;
-background-size: cover;
-display: none;
+.editar-conteudo span{
+  width: 100%;
+  text-align:center;
+  display: table-cell;
+  height: 100%;
+  vertical-align: middle;
 }
 
-.editar-conteudo {
-left: 0px;
-position: absolute;
-right: 0;
-margin: 0 auto;
-text-align: center;
-height: 100%;
-vertical-align: middle;
-display: table;
-width: 100%;
-opacity: 0;
-cursor: pointer;
-top: 112px;
+.editar-conteudo i{
+  background-color: rgb(105, 103, 103);
+  color: white;
+  font-weight: bold;
+  padding: 2px 5px;
+  text-transform: uppercase;
+  font-size: 10px;
+  border: 1px solid #fff;
+
 }
 
-.editar-conteudo span {
-width: 100%;
-text-align:center;
-display: table-cell;
-height: 100%;
-vertical-align: middle;
+#botaoPublicar{
+  width: 100px;
+  padding: 5px;
+  background-color: #8d8f94;
+  color: rgb(14, 13, 13);
+  font-family: Helvetica, sans-serif;
+  border-radius: 5px;
+  border: none;
+  
 }
 
-.editar-conteudo i {
-background-color: rgb(105, 103, 103);
-color: white;
-font-weight: bold;
-padding: 2px 5px;
-text-transform: uppercase;
-font-size: 10px;
-border: 1px solid #fff;
+#botaoTextarea{
+  width: 100px;
+  padding: 5px;
+  background-color: #8d8f94;
+  color: rgb(14, 13, 13);
+  font-family: Helvetica, sans-serif;
+  border-radius: 5px;
+  border: none;
 }
-
-@media screen and (max-width: 600px) {
-  #menu {
-    display: none;
-  }
-}
-
 
 /* CSS DO CALENDÁRIO */
 
@@ -254,9 +265,6 @@ box-sizing: border-box;
 font-family: "Quicksand", sans-serif;
 }
 
-html {
-font-size: 62.5%;
-}
 
 .container {
 width: 100%;
