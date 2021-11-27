@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -9,29 +8,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gerenciall Social Networks</title>
     <link rel="stylesheet" href="style.css">
-    <script src="app.js"></script>
-    <script src="facebook.script.js"></script>
-   
-</head>
-<header>
- 
-   
-  
-    <nav id="nav">
     
 
+   
+</head>
+<header> 
+    <nav id="nav">   
+
     <ul id="menu">
-        <li> <a href="#">  <img class="icon-header" src="img/dashboard.png"> 
+        <li id="inicio"> <a href="#">  <img class="icon-header" src="img/dashboard.png"> 
             Dashboard </a> </li> 
-        <li> <a href="agendar.html" _blank> <img class="icon-header" src="img/agendar.png"> 
+        <li id="publicar"> <a href="#">  <img class="icon-header" src="img/agendar.png"> 
             Publicar Post</a> </li> 
         <li> <a href=""> <img class="icon-header" src="img/marketing.png"> 
             Ads </a> </li>
         <li> <a href=""> <img class="icon-header" src="img/calendar.png"> 
-             Calendário </a> </li>
-       
-    </ul>
-    
+            Calendário </a> </li>
+    </ul>    
 </nav>
 
      
@@ -39,21 +32,54 @@
 <body>
     <main class="cards">
         
-        <section class="card">
+        <section class="card" id="dashboard">
             <div class="icon">
-                <img src="img/facebook.png" alt="facebook">
-            </div>
-            <h3>Facebook</h3>
-            <button id="btnFacebook" onclick="login()"> Login</button>
-          
-        
+                <img src="img/facebook.png" alt="facebook">          
+                <h3>Facebook</h3>
+                <button id="btnFacebook" onclick="login()"> Login</button>
+            </div>  
         </section>
+
     
-       
-    
+        <div id="publicarPost" class="card">
+            
+            <div class="formulario"> 
+
+                <label for="perfil"> 1. Perfil Conectado: <span id="perfil-conectado"></span> </label><br/> 
+                <div id="img-usuario"></div><br/>                                 
+
+                <label for="data"> 2. Selecione a data: </label><br/>
+                <input type="date" id="data" ><br/>
+
+                <label for="legenda"> 3. Descrição: </label><br/>
+                <textarea name="legendaPublicação" id="legenda" cols="40" rows="5"></textarea><br/>
+                <button id="botaoTextarea" type="button">Exibir Texto</button> <br/><br/>
+
+                <label for="midia"> 4. Mídias: </label>
+                <input type="file" id="midia" accept="image/*" onchange="carregaArquivo(event)">
+                <input type="submit" value="Enviar"><br><br>
+            </div>      
+            <div class="previa">
+                <div class="editar-conteudo">
+                    <span>
+                        <i>Editar</i>
+                    </span>
+                </div>
+                <h3> PREVIEW: </h3><br/>
+                <p id="publicacao-texto"></p><br/>
+                <div id="publicacao"> 
+                    <div class="fecha-preview-js fecha-preview">x</div> 
+                </div>
+
+            </div>           
+           
+        </div>         
+
+        <script src="publicarpost.js"></script>
+        
     </main>
      
- <!-- Load the JS SDK asynchronously -->
+ <!-- Carregue o JS SDK de forma assíncrona -->
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
 </body>
 </html>
