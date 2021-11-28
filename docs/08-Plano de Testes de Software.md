@@ -10,4 +10,9 @@ Na tela de **Publicar Post** deve apresentar a imagem do perfil que foi conectad
 
 RF-03  O site deve permitir publicar postagens nas redes sociais. 
 
+Na tela do **Calendário** o usuário sempre recebe a informação correta da data atual,
+consegue visualizar as datas de forma responsiva e navegar entre os meses do ano.
+
+RF-006 - O site deve ter um calendário para acompanhar os agendamentos.
+
 ## Ferramentas de Testes (Opcional)
