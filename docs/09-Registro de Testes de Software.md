@@ -63,7 +63,7 @@ Após definido o Preview o usuario deverá clicar em "Publicar", para que a post
  <img src="img/setas.jpg" alt="SetasDosMeses">
 </p>
  
-- A quantidade de dias do mês se adapta de acordo com o mês respectivo, sendo 30 ou 31 dias, ou até mesmo 28 como no caso do mês fevereiro.
+- A quantidade de dias do mês se adapta de acordo com o mês respectivo, sendo 30 ou 31 dias, ou até mesmo 28 dias como no caso do mês fevereiro.
 
 <p align="center">
  <img src="img/diasfevereiro.jpg" width="420" height="420" alt="QuantidadeDiasFevereiro"> <img src="img/diasnovembro.jpg" width="420" height="420" alt="QuantidadeDiasNovembro">
