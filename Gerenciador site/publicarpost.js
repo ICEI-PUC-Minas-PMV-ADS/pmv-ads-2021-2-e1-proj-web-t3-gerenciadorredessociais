@@ -1,6 +1,5 @@
 var publicarpostagem = document.getElementById('publicar');
 var inicio = document.getElementById('inicio');
-// var postagem = document.querySelector('.post');
 var conteudos = document.querySelectorAll('.card');
 
 publicarpostagem.addEventListener('click',function(){
@@ -64,3 +63,5 @@ btnTextarea.onclick = function(){
     console.log(descricao.value);
     document.getElementById('publicacao-texto').innerHTML = descricao.value;
 }
+
+

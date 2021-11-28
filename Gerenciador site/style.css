@@ -120,16 +120,19 @@ background-color: white;
 border: none;
 padding: 10px;
 margin: 10px;
+cursor: pointer;
 }
 
 #data {
 margin: 10px;
 border-radius: 2px;
 align-items:flex-end;
+cursor: pointer;
 }
 
 #publicarPost {
   color:  #0c0c0c;
+  
 }
 
 #perfil {
@@ -144,10 +147,6 @@ background-color: white;
 }
 
 
-.previa img {
-max-width: 300px; 
-}
-
 .previa:hover .editar-conteudo {
 opacity: 1;
 }
@@ -156,15 +155,13 @@ opacity: 1;
   position: relative;
   width: 300px;
   height: 300px;
-  float: right  
+  float: right;
 }
 
 .formulario{
   float: left;
-
 }
 .previa h3 {
-
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
   
@@ -237,22 +234,32 @@ opacity: 1;
 #botaoPublicar{
   width: 100px;
   padding: 5px;
-  background-color: #8d8f94;
+  background-color: rgb(128,128,128);
   color: rgb(14, 13, 13);
   font-family: Helvetica, sans-serif;
   border-radius: 5px;
   border: none;
+  align-items: flex-end;
+  cursor: pointer;
+  position: relative;
+  top: 80%;
+  left: 25%;
   
 }
 
 #botaoTextarea{
   width: 100px;
-  padding: 5px;
-  background-color: #8d8f94;
+  padding: 5px 10px;
+  background-color: rgb(128,128,128);
   color: rgb(14, 13, 13);
   font-family: Helvetica, sans-serif;
   border-radius: 5px;
   border: none;
+  cursor: pointer;
+  margin: 0px -130px;
+  position: relative;
+  left: 50%;
+  
 }
 
 /* CSS DO CALENDÁRIO */

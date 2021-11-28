@@ -7,7 +7,8 @@
     <title>Gerenciall Social Networks</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<header> 
+<header>
+    
     <nav id="nav">   
 
     <ul id="menu">
@@ -47,11 +48,10 @@
 
                 <label for="legenda"> 3. Descrição: </label><br/>
                 <textarea name="legendaPublicação" id="legenda" cols="40" rows="5"></textarea><br/>
-                <button id="botaoTextarea" type="button">Exibir Texto</button> <br/><br/>
+                <button id="botaoTextarea" type="button">Enviar Texto</button> <br/><br/>
 
                 <label for="midia"> 4. Mídias: </label>
                 <input type="file" id="midia" accept="image/*" onchange="carregaArquivo(event)">
-                <input type="submit" value="Enviar"><br><br>
             </div>      
             <div class="previa">
                 <div class="editar-conteudo">
@@ -65,9 +65,8 @@
                     <div class="fecha-preview-js fecha-preview">x</div> 
                     <br><br>
                 </div>
-                <button id="botaoPublicar" type="button">Publicar</button> <br/><br/>
-
-            </div>                     
+            </div>
+            <button id="botaoPublicar" type="button">Publicar</button> <br/><br/>                     
         </div>   
             
         <script src="facebook.script.js"></script>

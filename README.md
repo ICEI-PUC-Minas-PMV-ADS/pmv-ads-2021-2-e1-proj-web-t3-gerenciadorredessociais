@@ -1,4 +1,4 @@
-# GERENCIADOR DE REDES SOCIAIS
+ GERENCIADOR DE REDES SOCIAIS
 
 `CURSO`Análise e Desenvolvimento de Sistemas
 
