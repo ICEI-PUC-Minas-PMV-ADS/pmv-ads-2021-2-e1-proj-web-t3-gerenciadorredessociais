@@ -1,8 +1,7 @@
 # Registro de Testes de Software
-**Tela de Dashboard**
+#Tela de Dashboard
 
-
-![teladeInicio](img/telaInicio.png)
+![teladeInicio ](img/teladeinicio.jpg)
 
 * Login com a conta da rede social 
 ![TelaLoginFacebook](img/telaLoginFacebook.png)
@@ -10,10 +9,8 @@
 * Login realizado com sucesso, perfil do facebook conectado
 ![TelaConectado](img/telaFacebookConectado.png)
 
-**Tela de Publicar Post**
-
-
- ![TelaPublicarPost](img/TelaPublicar.png)
+#Tela de Publicar Post
+![teladePost ](img/TelaPublicarPost.jpg)
 
 * O site deve permitir realizar postagens nas redes sociais. 
 
