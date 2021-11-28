@@ -1,5 +1,5 @@
 # Registro de Testes de Software
-Tela de Dashboard
+## Tela de Dashboard
 ![](img/teladeinicio.JPG)
 
 * Login com a conta da rede social 
@@ -8,7 +8,7 @@ Tela de Dashboard
 * Login realizado com sucesso, perfil do facebook conectado
 ![TelaConectado](img/telaFacebookConectado.png)
 
-Tela de Publicar Post
+## Tela de Publicar Post
 ![](img/TelaPublicarPost.JPG)
 
 * O site deve permitir realizar postagens nas redes sociais. 
@@ -39,9 +39,56 @@ Após definido o Preview o usuario deverá clicar em "Publicar", para que a post
 ![](img/PermissaoNegada.PNG)
 
 
+## Tela do Calendário
+- A tela exibe um calendário funcional criado com Javascript, o mesmo realiza a função de sempre exibir a data atual (current date), de forma que o usuário possa se planejar acerca dos dias em que planeja realizar suas postagens.
+
+![Calendário](img/principal.jpg)
+
+- O usuário consegue acessá-lo através do header da página principal, ao clicar no icon a página é redirecionada.
+
+![Icon](img/icon.jpg)
+
+**Ele realiza a exibição da data atual de duas formas:**
+- Exibindo em seu cabeçalho o mês atual e abaixo do mesmo a data completa no seguinte formato: dia por esrito, dd/mm/aaaa.
+
+![ModeloDeData1](img/data1.jpg)
+
+- No corpo onde se exibe todos os dias do mês, através de um elemento hover, o dia atual recebe automaticamente uma cor diferente dos outros.
+
+![ModeloDeData2](img/data2.jpg)
+
+- O usuário é capaz de navegar entre os meses de forma inteligente e responsiva através da seta esquerda ou direita. 
+
+<p align="center">
+ <img src="img/setas.jpg" alt="SetasDosMeses">
+</p>
+ 
+- A quantidade de dias do mês se adapta de acordo com o mês respectivo, sendo 30 ou 31 dias, ou até mesmo 28 como no caso do mês fevereiro.
+
+<p align="center">
+ <img src="img/diasfevereiro.jpg" width="420" height="420" alt="QuantidadeDiasFevereiro"> <img src="img/diasnovembro.jpg" width="420" height="420" alt="QuantidadeDiasNovembro">
+</p>
+
+- O calendário exibe também os últimos ou primeiros dias dos próximos meses, caso os mesmos façam parte da mesma semana de um dos dias do mês atual.
+
+<p align="center">
+ <img src="img/diasanteriores.diasposteriores.jpg" alt="DiasAnterioresDiasPosteriores">
+</p>
+
+- Ao passar o mouse sobre os dias no corpo do calendário, o display muda de forma, recebendo um contorno e aumentando de tamanho para destacar o dia, o cursor do mouse também é alterado, sendo assim o usuário consegue se orientar melhor.
+
+<p align="center">
+ <img src="img/hover.diaselecionado.jpg" alt="CursosSobreOsDias">
+</p>
+
+
 ## Avaliação
 
-Para que a ação de publicar post seja finalizada com sucesso, por meio do SDK do Facebook é preciso que o perfil do usuario tenha alguma permissões especificas, no caso do grupo não conseguimos ter todas as permissões necessárias para realizar a publicação, não sendo possivel efetuar a postagem no perfil e então foi retornada uma mensagem de erro.
+- Para que a ação de publicar post seja finalizada com sucesso, por meio do SDK do Facebook é preciso que o perfil do usuario tenha algumas permissões especificas, no caso do grupo não conseguimos ter todas as permissões necessárias para realizar a publicação, não sendo possivel efetuar a postagem no perfil e então foi retornada uma mensagem de erro.
+
+- As funções do calendário referenciadas no tópico "04 - Projeto de Interface" deste projeto, como:<br>
+*Possuir barras de filtros para exibir:* Status das postagens ("publicado" ou "agendado"), os canais desejados (redes sociais) e o filtro de data por postagens, não foram executadas  devido a impossibilidade de fazer a integração com as redes sociais de forma completa, devido aos erros de permissões já citados no parágrafo anterior.
+Logo, essas funções não foram criadas, para que não haja confusão no usuário ao visualizar um recurso sem função e também para respeitar a Restrição de número 2 presente nas especificações do projeto: *"RE-02 - O aplicativo deve se restringir às tecnologias básicas da Web no Frontend".*
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
