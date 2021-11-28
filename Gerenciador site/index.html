@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,64 +23,68 @@
             Calendário </a> </li>
     </ul>    
 </nav>
-     
 </header>
+
 <body>
     <main class="cards">
-        
+
         <section class="card" id="dashboard">
             <div class="icon">
-                <img src="img/facebook.png" alt="facebook">          
+                <img src="img/facebook.png" alt="facebook">
                 <h3>Facebook</h3>
                 <button id="btnFacebook" onclick="login()"> Login</button>
-            </div>  
+            </div>
         </section>
 
-    
+
         <div id="publicarPost" class="card">
-            
-            <div class="formulario"> 
 
-                <label for="perfil"> 1. Perfil Conectado: <span id="perfil-conectado"></span> </label><br/> 
-                <div id="img-usuario"></div><br/>                                 
+            <div class="formulario">
 
-                <label for="data"> 2. Selecione a data: </label><br/>
-                <input type="date" id="data" ><br/>
+                <label for="perfil"> 1. Perfil Conectado: <span id="perfil-conectado"></span> </label><br />
+                <div id="img-usuario"></div><br />
 
-                <label for="legenda"> 3. Descrição: </label><br/>
-                <textarea name="legendaPublicação" id="legenda" cols="40" rows="5"></textarea><br/>
-                <button id="botaoTextarea" type="button">Enviar Texto</button> <br/><br/>
+                <label for="data"> 2. Selecione a data: </label><br />
+                <input type="date" id="data"><br />
+
+                <label for="legenda"> 3. Descrição: </label><br />
+                <textarea name="legendaPublicação" id="legenda" cols="40" rows="5"></textarea><br />
+                <button id="botaoTextarea" type="button">Exibir Texto</button> <br /><br />
 
                 <label for="midia"> 4. Mídias: </label>
                 <input type="file" id="midia" accept="image/*" onchange="carregaArquivo(event)">
-            </div>      
+                <input type="submit" value="Enviar"><br><br>
+            </div>
+
             <div class="previa">
                 <div class="editar-conteudo">
                     <span>
                         <i>Editar</i>
                     </span>
                 </div>
-                <h3> PREVIEW: </h3><br/>
+                <h3> PREVIEW: </h3><br />
                 <p id="publicacao-texto"></p><br>
-                <div id="publicacao"> 
-                    <div class="fecha-preview-js fecha-preview">x</div> 
+                <div id="publicacao">
+                    <div class="fecha-preview-js fecha-preview">x</div>
                     <br><br>
                 </div>
             </div>
             <button id="botaoPublicar" type="button">Publicar</button> <br/><br/>                     
         </div>   
             
+
         <script src="facebook.script.js"></script>
         <script src="publicarpost.js"></script>
-        
-        
-    </main>
-     
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
 
-<footer>
-    <img src="img/logoescrita128.jpg">
-    <p class="copyright">&copy; Copyright Gerenciall Social Networks - 2021</p>
-</footer>
+
+    </main>
+
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+
+    <footer>
+        <img src="img/logoescrita128.jpg">
+        <p class="copyright">&copy; Copyright Gerenciall Social Networks - 2021</p>
+    </footer>
 </body>
+
 </html>

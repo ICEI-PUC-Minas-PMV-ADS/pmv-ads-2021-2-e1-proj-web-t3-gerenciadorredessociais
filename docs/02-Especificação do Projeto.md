@@ -58,7 +58,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |------|----------------------------------------------------------------------------------------------|------------|
 |RF-001| O site deve apresentar uma plataforma de integração com redes sociais obtidas por meio de API| ALTA       | 
 |RF-002| O site deve permitir incluir/excluir/alterar contas de redes sociais.                        | MÉDIA      |
-|RF-003| O site deve permitir agendar postagens nas redes sociais.                                    | MÉDIA      |
+|RF-003| O site deve permitir publicar postagens nas redes sociais.                                    | MÉDIA      |
 |RF-004| O site deve permitir fazer login com a conta da rede social.                                 | ALTA       |
 |RF-005| O site deve permitir o gerenciamento de anúncios nas redes sociais                           | MÉDIA      |
 |RF-006| O site deve ter um calendário para acompanhar os agendamentos.                               | MÉDIA      |
