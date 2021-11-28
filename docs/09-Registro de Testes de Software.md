@@ -49,7 +49,7 @@ Após definido o Preview o usuario deverá clicar em "Publicar", para que a post
 ![Icon](img/icon.jpg)
 
 **Ele realiza a exibição da data atual de duas formas:**
-- Exibindo em seu cabeçalho o mês atual e abaixo do mesmo a data completa no seguinte formato: dia por esrito, dd/mm/aaaa.
+- Exibindo em seu cabeçalho o mês atual e abaixo do mesmo a data completa no seguinte formato: dia por escrito, dd/mm/aaaa.
 
 ![ModeloDeData1](img/data1.jpg)
 
