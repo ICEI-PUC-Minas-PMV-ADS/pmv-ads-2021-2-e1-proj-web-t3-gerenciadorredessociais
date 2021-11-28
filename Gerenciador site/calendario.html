@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calendário</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" />
+</head>
+
+<header>
+  <nav id="nav">
+    <ul id="menu">
+      <li><a href="index.html"><img class="icon-header" src="img/dashboard.png">Dashboard</a></li>
+      <li id="publicar"><a href="#"><img class="icon-header" src="img/agendar.png">Publicar Post</a></li>
+      <li><a href=""> <img class="icon-header" src="img/marketing.png">Ads</a></li>
+      <li><a href="calendario.html"><img class="icon-header" src="img/calendar.png">Calendário</a></li>
+    </ul>
+  </nav>
+</header>
+
+<body>
+  <div id="htmlCalendario">
+    <div class="container">
+      <div class="calendario">
+        <div class="mes">
+          <i class="fas fa-angle-left prev"></i>
+          <div class="date">
+            <h1></h1>
+            <p></p>
+          </div>
+          <i class="fas fa-angle-right next"></i>
+        </div>
+        <div class="diasDaSemana">
+          <div>Dom</div>
+          <div>Seg</div>
+          <div>Ter</div>
+          <div>Qua</div>
+          <div>Qui</div>
+          <div>Sex</div>
+          <div>Sab</div>
+        </div>
+        <div class="dias"></div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="calendario.script.js"></script>
+
+  <footer>
+    <img src="img/logoescrita128.jpg">
+    <p class="copyright">&copy; Copyright Gerenciall Social Networks - 2021</p>
+  </footer>
+
+</body>
+
+</html>
