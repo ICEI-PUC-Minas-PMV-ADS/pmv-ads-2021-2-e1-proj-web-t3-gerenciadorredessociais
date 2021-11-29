@@ -40,7 +40,7 @@ Após definido o Preview o usuario deverá clicar em "Publicar", para que a post
 
 
 ## Tela do Calendário
-- A tela exibe um calendário funcional criado com Javascript, o mesmo realiza a função de sempre exibir a data atual (current date), de forma que o usuário possa se planejar acerca dos dias em que planeja realizar suas postagens.
+- A tela exibe um calendário criado com Javascript, o mesmo realiza a função de sempre exibir a data atual (current date), de forma que o usuário possa se planejar acerca dos dias em que planeja realizar suas postagens.
 
 ![Calendário](img/principal.jpg)
 
