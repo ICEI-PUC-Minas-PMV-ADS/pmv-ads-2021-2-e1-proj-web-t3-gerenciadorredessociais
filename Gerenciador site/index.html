@@ -7,72 +7,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gerenciall Social Networks</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"/>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" />
 </head>
 
-    <script src="facebook.script.js"></script>
+<script src="facebook.script.js"></script>
 
-    <script src="googleapi.js"></script>
+<script src="googleapi.js"></script>
 
-    <meta name="google-signin-scope" content="profile email">
-   
-    <script src="https://apis.google.com/js/platform.js" async defer></script>
-   
-    <meta name="google-signin-client_id" content="368741969971-8ua4cdfpqrj6aa78b24k5e0vfbuqhdfa.apps.googleusercontent.com">
+<meta name="google-signin-scope" content="profile email">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<meta name="google-signin-client_id" content="368741969971-8ua4cdfpqrj6aa78b24k5e0vfbuqhdfa.apps.googleusercontent.com">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
 <header>
-    <nav id="nav">   
+    <nav id="nav">
         <ul id="menu">
-            <li id="inicio"> <a href="#"><img class="icon-header" src="img/dashboard.png">Dashboard</a></li> 
-            <li id="publicar"><a href="#"><img class="icon-header" src="img/agendar.png">Publicar Post</a></li> 
+            <li id="inicio"> <a href="#"><img class="icon-header" src="img/dashboard.png">Dashboard</a></li>
+            <li id="publicar"><a href="#"><img class="icon-header" src="img/agendar.png">Publicar Post</a></li>
             <li> <a href="calendario.html"><img class="icon-header" src="img/calendar.png">Calendário</a></li>
-        </ul>    
-</nav>
+        </ul>
+    </nav>
 </header>
 
 <body>
-    <main class="cards" >
-<div >
+    <main class="cards">
         <section class="card" id="dashboard">
             <div class="icon">
                 <img src="img/facebook.png" alt="facebook">
                 <h3>Facebook</h3>
                 <button id="btnFacebook" onclick="login()"> Login</button>
             </div>
-            
+
         </section>
 
-        <section class="card" >
+        <section class="card" id="dashboard-google">
             <div class="icon">
-                <img src="img/google.png" alt="google" 
-                width="200%"style="margin-bottom: 50px;">
+                <img src="img/googlelogo.png" alt="google" width="200%" style="margin-bottom: 50px;">
                 <h3>Google</h3>
             </div>
-          <div class="g-signin2" data-onsuccess="onSignIn"></div>
+            <div class="g-signin2" data-onsuccess="onSignIn"></div>
 
             <div id="g_id_onload"
-    data-client_id="368741969971-8ua4cdfpqrj6aa78b24k5e0vfbuqhdfa.apps.googleusercontent.com"
-    data-context="signin"
-        data-ux_mode="redirect"
-data-login_uri="https://gustavocostamarketing.github.io/gerenciall/"
-data-auto_prompt="false">
-</div>
+                data-client_id="368741969971-8ua4cdfpqrj6aa78b24k5e0vfbuqhdfa.apps.googleusercontent.com"
+                data-context="signin" data-ux_mode="redirect"
+                data-login_uri="https://gustavocostamarketing.github.io/gerenciall/" data-auto_prompt="false">
+            </div>
 
-    <div class="g_id_signin"
-data-type="standard"
-data-shape="rectangular"
-data-theme="outline"
-data-text="$ {button.text}"
-data-size="large"
-data-locale="pt-BR"
-data-logo_alignment="left">
-</div>
-</div>   
+            <div class="g_id_signin" data-type="standard" data-shape="rectangular" data-theme="outline"
+                data-text="$ {button.text}" data-size="large" data-locale="pt-BR" data-logo_alignment="left">
+            </div>
 
-    </section>
+        </section>
 
         <div id="publicarPost" class="card">
 
@@ -106,9 +96,9 @@ data-logo_alignment="left">
                     <br><br>
                 </div>
             </div>
-            <button id="botaoPublicar" type="button">Publicar</button> <br/><br/>                     
-        </div>   
-            
+            <button id="botaoPublicar" type="button">Publicar</button> <br /><br />
+        </div>
+
 
         <script src="facebook.script.js"></script>
         <script src="publicarpost.js"></script>
@@ -118,8 +108,8 @@ data-logo_alignment="left">
 
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
 
-      <!-- GOOGLE API-->
-<script src="https://apis.google.com/js/platform.js" async defer></script>
+    <!-- GOOGLE API-->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
 
     <footer>
         <img src="img/logoescrita128.jpg">

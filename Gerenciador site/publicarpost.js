@@ -3,11 +3,14 @@ var inicio = document.getElementById('inicio');
 var conteudos = document.querySelectorAll('.card');
 
 publicarpostagem.addEventListener('click',function(){
+    esconderConteudo()
     mostrarConteudo('publicarPost')
 });
 
 inicio.addEventListener('click',function(){
+    esconderConteudo()
     mostrarConteudo('dashboard')
+    mostrarConteudo('dashboard-google')
 });
 
 
@@ -18,12 +21,14 @@ function esconderConteudo(){
 }
 
 function mostrarConteudo(conteudoId) {
-    esconderConteudo()
     const conteudo = document.getElementById(conteudoId);
     conteudo.style.display = 'block';
 }
 
+esconderConteudo()
+
 mostrarConteudo('dashboard')
+mostrarConteudo('dashboard-google')
 
 var btnFecha = document.querySelector('.fecha-preview-js');
 var saida = document.getElementById("publicacao");
