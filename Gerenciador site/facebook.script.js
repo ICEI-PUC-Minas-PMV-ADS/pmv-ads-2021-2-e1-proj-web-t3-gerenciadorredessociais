@@ -20,7 +20,7 @@ function login() {
     } else {
       // a pessoa não está logada em sua página da web ou não podemos saber. 
     }
-  }, { scope: 'pages_read_engagement, pages_manage_posts, manage_pages, publish_actions', return_scopes: true });
+  })
 }
 
 var botaoPublicarPost = document.getElementById('botaoPublicar');
