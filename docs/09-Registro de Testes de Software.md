@@ -1,9 +1,9 @@
 # Registro de Testes de Software
 ## Tela de Dashboard
-![](img/teladeinicio.JPG)
+![](img/teladashboard.png)
 
 * Login com a conta da rede social 
-![TelaLogin](img/teladashboard)
+![TelaLogin](img/teladashboard.png)
 
 * Login realizado com sucesso, perfil do facebook conectado
 ![TelaConectado](img/telaFacebookConectado.png)
