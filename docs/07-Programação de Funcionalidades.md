@@ -2,22 +2,36 @@
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência. 
 
+Tela do Dashboard - login no Facebook e Google
 
-RF-04 O site deve permitir fazer login com a conta da rede social. 
+Tela de Publicar Post 
 
-A tela principal do sistema apresenta login de Redes Sociais. E uma funcionalidade implementada foi a de Login nas Redes Sociais.  
+Tela do Calendário 
 
 **Requisitos atendidos** 
 
-● RF-04 
+RF-01 O site deve apresentar uma plataforma de integração com redes sociais obtidas por meio de API. 
 
-* Artefatos da funcionalidade 
+RF-04 O site deve permitir fazer login com a conta da rede social.
+
+RF-03 O site deve permitir publicar postagens nas redes sociais.
+
+RF-06 O site deve ter um calendário para acompanhar os agendamentos.
+
+**Artefatos da funcionalidade** 
+
 ● index.html 
 ● style.css 
 ● facebook.script.js 
 ● img/ 
- 
+● google52a1af1d38ffc873.html 
+● calendario.css 
+● calendario.script.js 
+● googleapi.js 
+● publicarpost.js 
+● calendario.html
 
 **Instruções de acesso**
+
 1. Abra um navegador de Internet e informe a seguinte URL:  https://gustavocostamarketing.github.io/gerenciall/ 
 
