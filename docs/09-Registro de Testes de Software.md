@@ -3,7 +3,7 @@
 ![](img/teladashboard.png)
 
 * Tela de login com a conta do Facebook
-![TelaLoginFace](img/tela_login_face.png)
+![TelaLoginFace](img/tela_login_facebook.png)
 
 * Tela de login com a conta do Google
 ![TelaLoginGoogle](img/logingoogleok.png)
