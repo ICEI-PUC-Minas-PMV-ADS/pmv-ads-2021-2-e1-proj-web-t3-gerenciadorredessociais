@@ -3,7 +3,7 @@
 ![](img/teladeinicio.JPG)
 
 * Login com a conta da rede social 
-![TelaLoginFacebook](img/telaLoginFacebook.png)
+![TelaLogin](img/teladashboard)
 
 * Login realizado com sucesso, perfil do facebook conectado
 ![TelaConectado](img/telaFacebookConectado.png)
