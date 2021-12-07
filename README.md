@@ -8,7 +8,7 @@
 
 `SEMESTRE`Eixo 1
 
-Neste projeto, a solução que buscamos se baseia em diminuir a dificuldade que as micros e pequenas empresas encontram diante da necessidade de adotarem soluções relacionadas ao comércio eletrônico, em divulgar sua imagem e produtos, assim como lhes entregar a possibilidade de conhecerem outras formas de captar clientes no mundo digital.
+O objetivo deste trabalho é fornecer uma plataforma de integração de redes sociais e gestão de resultados, onde será possível gerenciar os canais de comunicação para facilitar o contato afim de alavancar e prosperar uma venda ou alcance da marca.
 
 ## Integrantes
 
