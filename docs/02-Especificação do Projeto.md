@@ -7,23 +7,25 @@ Por meio da vivência e dificuldades expostas pelos usuários das redes sociais 
 ## Personas
 
 
-| ![](img/jppersona.jpg)     | **JOÃO PEDRO**                                                        | | 
+ 
+
+| <img src="img/jppersona.jpg" width="350" height="250" alt="Persona João Pedro">     | **JOÃO PEDRO**                                                        | | 
 |------|----------------------------------------------------------------------------------------------|------------|
 |* Ocupação: proprietário de uma pequena papelaria no seu bairro.       | * Idade: 65                        | * Aplicativos: WhatsApp | 
 |  * Motivações: O sustento e melhoria de vida da sua família | * Frustrações: João tem medo de ser dominado pelo mundo tecnológico e ficar para trás.  | * Hobbies: Pescaria, Jogos de Futebol e Bar com os amigos.      |
 
-|  ![](img/julainepersona.jpg)    | **JULIANA**                                                                                 |   |          
+| <img src="img/julainepersona.jpg" width="350" height="250" alt="Persona Juliana">     | **JULIANA**                                                                                 |   |          
 |------|----------------------------------------------------------------------------------------------|------------|
 | * Ocupação: proprietária de uma loja de roupas infantil.       | * Idade: 50                     | * Aplicativos: WhatsApp, Facebook, Instagram| 
 |  * Motivações: Inovar e crescer no ramo da moda infantil  | * Frustrações: Medo de perder mercado para as grandes redes e lojas de roupa.  | * Hobbies: Culinária, academia e passeios 
 
 
-| ![](img/diegopersona.jpg)      | **DIEGO**                                                                                |     |        
+| <img src="img/diegopersona.jpg" width="530" height="250" alt="Persona Diego">      | **DIEGO**                                                                                |     |        
 |------|----------------------------------------------------------------------------------------------|------------|
 | * Ocupação: proprietário de um Pet Shop      | * Idade: 25                             | * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube| 
 | * Motivações: Crescer e expandir sua loja no mercado pet.   | * Frustrações: Perder mercado para grandes redes de Pet Shop como, Petz, Cobasi entre outras. | * Hobbies: Esportes, Viagens, Filmes e vídeos de diversos conteúdo. 
 
-| ![](img/luizapersona.jpg)      | **LUIZA**                                                                         |         |            
+| <img src="img/luizapersona.jpg" width="270" height="250" alt="Persona Luiza">      | **LUIZA**                                                                         |         |            
 |------|----------------------------------------------------------------------------------------------|------------|
 | * Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.  | * Idade: 27    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
 | * Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | * Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | * Hobbies: Leitura, viagens, exposições culturais e artísticas. 
@@ -57,8 +59,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID    | Descrição do Requisito                                                                       | Prioridade |
 |------|----------------------------------------------------------------------------------------------|------------|
 |RF-001| O site deve apresentar uma plataforma de integração com redes sociais obtidas por meio de API| ALTA       | 
-|RF-002| O site deve permitir incluir/excluir/alterar contas de redes sociais.                        | BAIXA     |
-|RF-003| O site deve permitir publicar postagens nas redes sociais.                                    | MÉDIA      |
+|RF-002| O site deve permitir incluir/excluir/alterar contas de redes sociais.                        | BAIXA      |
+|RF-003| O site deve permitir publicar postagens nas redes sociais.                                   | MÉDIA      |
 |RF-004| O site deve permitir fazer login com a conta da rede social.                                 | ALTA       |
 |RF-005| O site deve permitir o gerenciamento de anúncios nas redes sociais                           | BAIXA      |
 |RF-006| O site deve ter um calendário para acompanhar os agendamentos.                               | MÉDIA      |
