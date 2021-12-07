@@ -57,10 +57,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID    | Descrição do Requisito                                                                       | Prioridade |
 |------|----------------------------------------------------------------------------------------------|------------|
 |RF-001| O site deve apresentar uma plataforma de integração com redes sociais obtidas por meio de API| ALTA       | 
-|RF-002| O site deve permitir incluir/excluir/alterar contas de redes sociais.                        | MÉDIA      |
+|RF-002| O site deve permitir incluir/excluir/alterar contas de redes sociais.                        | BAIXA     |
 |RF-003| O site deve permitir publicar postagens nas redes sociais.                                    | MÉDIA      |
 |RF-004| O site deve permitir fazer login com a conta da rede social.                                 | ALTA       |
-|RF-005| O site deve permitir o gerenciamento de anúncios nas redes sociais                           | MÉDIA      |
+|RF-005| O site deve permitir o gerenciamento de anúncios nas redes sociais                           | BAIXA      |
 |RF-006| O site deve ter um calendário para acompanhar os agendamentos.                               | MÉDIA      |
 |RF-007| O site deve apresentar um relatório de dados das redes sociais                               | BAIXA      |
 |RF-008| O site deve apresentar uma API de criação de posts.                                          | BAIXA      |
@@ -72,7 +72,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);  | ALTA | 
-|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada |  BAIXA | 
 |RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade |  MEDIA |
 |RNF-004| O site deve ser apresentado de maneira fácil e interativa para o usuário.|  ALTA |
 |RNF-005| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA |
