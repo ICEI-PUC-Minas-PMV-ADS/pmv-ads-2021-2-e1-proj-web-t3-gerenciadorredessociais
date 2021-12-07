@@ -9,6 +9,6 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 Nome e marca do projeto
 
 ## Identidade Visual (Marca, Design)
- [](img/gerenciall_logo.png)
+![Logo](img/gerenciall_logo.png)
 
->
+
