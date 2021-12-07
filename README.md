@@ -20,7 +20,7 @@ Neste projeto, a solução que buscamos se baseia em diminuir a dificuldade que 
 
 ## Instruções de utilização
 
-PENDENTE - Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Acessar o endereço https://gustavocostamarketing.github.io/gerenciall/, realizar o login da rede social que deseja e adicionar as informações da publicação.
 
 # Documentação
 
