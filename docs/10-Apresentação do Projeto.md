@@ -6,7 +6,7 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
-Nome e marca do projeto
+Gerenciall Social Networks
 
 ## Identidade Visual (Marca, Design)
 ![Logo](img/gerenciall_logo.png)
