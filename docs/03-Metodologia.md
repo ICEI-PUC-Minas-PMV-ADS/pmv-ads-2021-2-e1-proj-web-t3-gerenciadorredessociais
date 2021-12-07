@@ -10,7 +10,7 @@ A metodologia contempla os procedimentos a serem adotados pela equipe, neste ite
 |              Ambiente              |   Plataforma   |      Link de Acesso       |
 |------------------------------------|----------------|---------------------------|
 | Repositório de código fonte        | GitHub         | https://bityli.com/9YrCdW |
-| Documentos do projeto              | Documento Word | https://bityli.com/dLNHHu |
+| Documentos do projeto              | GitHub         | https://bityli.com/9YrCdW |
 | Projeto de Interface e  Wireframes | Marvelapp      | https://bityli.com/E5k2iY |
 | Gerenciamento do Projeto           | Trello         | https://bityli.com/3GnQIg |
 
@@ -25,10 +25,7 @@ Como metodologia a equipe definiu uma abordagem de gerenciamento de projetos bas
 A equipe está organizada da seguinte maneira:
 
 * Scrum Master: Gustavo dos Anjos Mendes Costa
-* Product Owner: Rafael de Abreu Oliveira
-* Equipe de Desenvolvimento
-    * Kênia Maria da Cunha 
-    * Erica Couto Rocha Cicero
+* Equipe de Desenvolvimento: Kênia Maria da Cunha 
 * Equipe de Design: Gabriel Eduardo Palhares
 
 Para uma melhor organização e distribuição das atividades do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
