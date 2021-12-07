@@ -1,4 +1,6 @@
- GERENCIADOR DE REDES SOCIAIS
+# GERENCIADOR DE REDES SOCIAIS
+
+<img src="docs/img/gerenciall_logo.png" width="350" height="350" alt="Logo">
 
 `CURSO`Análise e Desenvolvimento de Sistemas
 
