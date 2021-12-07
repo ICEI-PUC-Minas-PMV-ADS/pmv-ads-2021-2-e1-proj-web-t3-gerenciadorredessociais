@@ -8,9 +8,9 @@ Tela de Publicar Post
 
 Tela do Calendário 
 
-**Requisitos atendidos** 
+* **Requisitos atendidos** 
 
-Requisitos funcionais
+**Requisitos funcionais**
 
 RF-01 O site deve apresentar uma plataforma de integração com redes sociais obtidas por meio de API. 
 
@@ -20,7 +20,7 @@ RF-03 O site deve permitir publicar postagens nas redes sociais.
 
 RF-06 O site deve ter um calendário para acompanhar os agendamentos.
 
-Requisitos não funcionais
+**Requisitos não funcionais**
 
 RNF-001	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);	
 
@@ -30,7 +30,7 @@ RNF-004	O site deve ser apresentado de maneira fácil e interativa para o usuár
 
 RNF-005	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)
 
-**Artefatos da funcionalidade** 
+* **Artefatos da funcionalidade** 
 
 ● index.html 
 ● style.css 
