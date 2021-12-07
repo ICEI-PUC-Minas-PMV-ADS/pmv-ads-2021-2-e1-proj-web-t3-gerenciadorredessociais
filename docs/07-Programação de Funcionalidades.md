@@ -10,6 +10,8 @@ Tela do Calendário
 
 **Requisitos atendidos** 
 
+Requisitos funcionais
+
 RF-01 O site deve apresentar uma plataforma de integração com redes sociais obtidas por meio de API. 
 
 RF-04 O site deve permitir fazer login com a conta da rede social.
@@ -17,6 +19,16 @@ RF-04 O site deve permitir fazer login com a conta da rede social.
 RF-03 O site deve permitir publicar postagens nas redes sociais.
 
 RF-06 O site deve ter um calendário para acompanhar os agendamentos.
+
+Requisitos não funcionais
+
+RNF-001	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);	
+
+RNF-003	O site deve ter bom nível de contraste entre os elementos da tela em conformidade
+
+RNF-004	O site deve ser apresentado de maneira fácil e interativa para o usuário.
+
+RNF-005	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)
 
 **Artefatos da funcionalidade** 
 
